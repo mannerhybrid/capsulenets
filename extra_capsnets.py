@@ -1,31 +1,4 @@
 
-# coding: utf-8
-
-# # Capsule Networks (CapsNets)
-
-# Based on the paper: [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829), by Sara Sabour, Nicholas Frosst and Geoffrey E. Hinton (NIPS 2017).
-
-# Inspired in part from Huadong Liao's implementation: [CapsNet-TensorFlow](https://github.com/naturomics/CapsNet-Tensorflow).
-
-# # Introduction
-
-# Watch [this video](https://youtu.be/pPN8d0E3900) to understand the key ideas behind Capsule Networks:
-
-# In[1]:
-
-
-from IPython.display import HTML
-HTML("""<iframe width="560" height="315" src="https://www.youtube.com/embed/pPN8d0E3900" frameborder="0" allowfullscreen></iframe>""")
-
-
-# You may also want to watch [this video](https://youtu.be/2Kawrd5szHE), which presents the main difficulties in this notebook:
-
-# In[2]:
-
-
-HTML("""<iframe width="560" height="315" src="https://www.youtube.com/embed/2Kawrd5szHE" frameborder="0" allowfullscreen></iframe>""")
-
-
 # # Imports
 
 # To support both Python 2 and Python 3:
