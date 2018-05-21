@@ -1,0 +1,40 @@
+
+1. BMC Public Health. 2011 Jan 22;11:48. doi: 10.1186/1471-2458-11-48.
+
+Dietary energy density and adiposity: employing bias adjustments in a
+meta-analysis of prospective studies.
+
+Wilks DC(1), Mander AP, Jebb SA, Thompson SG, Sharp SJ, Turner RM, Lindroos AK.
+
+Author information: 
+(1)Medical Research Council Human Nutrition Research, Cambridge, UK.
+
+BACKGROUND: Dietary studies differ in design and quality making it difficult to
+compare results. This study quantifies the prospective association between
+dietary energy density (DED) and adiposity in children using a meta-analysis
+method that adjusts for differences in design and quality through eliciting and
+incorporating expert opinion on the biases and their uncertainty.
+METHOD: Six prospective studies identified by a previous systematic literature
+search were included. Differences in study quality and design were considered
+respectively as internal and external biases and captured in bias checklists.
+Study results were converted to correlation coefficients; biases were considered 
+either additive or proportional on this scale. The extent and uncertainty of the 
+internal and external biases in each study were elicited in a formal process by
+five quantitatively-trained assessors and five subject-matter specialists. Biases
+for each study were combined across assessors using median pooling and results
+combined across studies by random-effects meta-analysis.
+RESULTS: The unadjusted combined correlation between DED and adiposity change was
+0.06 (95%CI 0.01, 0.11; p = 0.013), but with considerable heterogeneity (I² =
+52%). After bias-adjustment the pooled correlation was 0.17 (95%CI - 0.11, 0.45; 
+p = 0.24), and the studies were apparently compatible (I² = 0%).
+CONCLUSIONS: This method allowed quantitative synthesis of the prospective
+association between DED and adiposity change in children, which is important for 
+the development of evidence-informed policy. Bias adjustment increased the
+magnitude of the positive association but the widening confidence interval
+reflects the uncertainty of the assessed biases and implies that higher quality
+studies are required.
+
+DOI: 10.1186/1471-2458-11-48 
+PMCID: PMC3038903
+PMID: 21255448  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. J Clin Endocrinol Metab. 2011 Mar;96(3):787-91. doi: 10.1210/jc.2010-2028. Epub
+2010 Dec 22.
+
+Central and peripheral endocannabinoids and cognate acylethanolamides in humans: 
+association with race, adiposity, and energy expenditure.
+
+Jumpertz R(1), Guijarro A, Pratley RE, Piomelli D, Krakoff J.
+
+Author information: 
+(1)Obesity and Diabetes Clinical Research Section, National Institutes of
+Health/National Institute of Diabetes and Digestive and Kidney
+Diseases/Department of Health and Human Services, 4212 North 16th Street,
+Phoenix, Arizona 85016, USA. jumpertzr@mail.nih.gov
+
+Erratum in
+    J Clin Endocrinol Metab. 2011 Jun 1;96(6):1908.
+
+CONTEXT: Peripheral and central endocannabinoids and cognate acylethanolamides
+(AEs) may play important but distinct roles in regulating energy balance.
+OBJECTIVE: We hypothesized that in humans central/peripheral endocannabinoids are
+differently associated with adiposity and energy expenditure and differ by race.
+DESIGN: We examined associations of arachindonoylethanolamide,
+2-arachidonoylglycerol, palmitoylethanolamide, and oleoylethanolamide (OEA)
+assayed in plasma and cerebrospinal fluid (CSF) with race, adiposity, and energy 
+expenditure.
+SETTING/PARTICIPANTS: In this monitored clinical inpatient study, CSF was
+obtained by lumbar puncture in 27 individuals (12 Caucasian, 11 American Indian, 
+and four African-American). Twenty-four hour and sleep energy expenditure were
+measured by indirect calorimetry in a respiratory chamber.
+MAIN OUTCOME MEASURE: Samples were analyzed from a previous study originally
+designed to test a blood-brain barrier leptin transport deficit in human obesity.
+RESULTS: CSF (but not peripheral) 2-arachidonoylglycerol was significantly
+increased in American Indians compared with Caucasians (18.48 ± 6.17 vs. 10.62 ± 
+4.58 pmol/ml, P < 0.01). In the whole group, peripheral AEs were positively but
+in CSF negatively associated with adiposity. However, in multivariate models
+adjusted for the other peripheral and CSF AEs, peripheral
+arachindonoylethanolamide was the only AE significantly associated with
+adiposity. Interestingly, CSF OEA concentrations were positively associated with 
+adjusted 24 hour and sleep energy expenditure (r = 0.47, P < 0.05; r = 0.42, P < 
+0.05), but peripheral OEA was not.
+CONCLUSIONS: These data indicate a central alteration of the endocannabinoid
+system in American Indians and furthermore show that AEs in both compartments
+play an important but distinct role in human energy balance regulation.
+
+DOI: 10.1210/jc.2010-2028 
+PMCID: PMC3047230
+PMID: 21177788  [Indexed for MEDLINE]
+

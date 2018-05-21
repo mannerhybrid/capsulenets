@@ -1,0 +1,84 @@
+
+1. EBioMedicine. 2017 May;19:60-72. doi: 10.1016/j.ebiom.2017.03.037. Epub 2017 Apr 
+26.
+
+ANRIL Promoter DNA Methylation: A Perinatal Marker for Later Adiposity.
+
+Lillycrop K(1), Murray R(2), Cheong C(3), Teh AL(3), Clarke-Harris R(4), Barton
+S(5), Costello P(4), Garratt E(6), Cook E(4), Titcombe P(5), Shunmuganathan B(3),
+Liew SJ(3), Chua YC(3), Lin X(3), Wu Y(3), Burdge GC(4), Cooper C(5), Inskip
+HM(7), Karnani N(3), Hopkins JC(8), Childs CE(7), Chavez CP(4), Calder PC(9), Yap
+F(10), Lee YS(11), Chong YS(12), Melton PE(13), Beilin L(14), Huang RC(15),
+Gluckman PD(16), Harvey N(7), Hanson MA(6), Holbrook JD(3); EpiGen Consortium,
+Godfrey KM(17).
+
+Author information: 
+(1)Centre for Biological Sciences, Faculty of Natural and Environmental Sciences,
+University of Southampton, Southampton, UK; NIHR Southampton Biomedical Research 
+Centre, University of Southampton, University Hospital Southampton NHS Foundation
+Trust, Southampton, UK.
+(2)Academic Unit of Human Development and Health, Faculty of Medicine, University
+of Southampton, Southampton, UK. Electronic address: rm2v10@soton.ac.uk.
+(3)Singapore Institute for Clinical Sciences (SICS), Agency for Science
+Technology and Research (A*STAR), Singapore.
+(4)Academic Unit of Human Development and Health, Faculty of Medicine, University
+of Southampton, Southampton, UK.
+(5)MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, UK.
+(6)NIHR Southampton Biomedical Research Centre, University of Southampton,
+University Hospital Southampton NHS Foundation Trust, Southampton, UK; Academic
+Unit of Human Development and Health, Faculty of Medicine, University of
+Southampton, Southampton, UK.
+(7)Academic Unit of Human Development and Health, Faculty of Medicine, University
+of Southampton, Southampton, UK; MRC Lifecourse Epidemiology Unit, University of 
+Southampton, Southampton, UK.
+(8)Academic Unit of Cancer Sciences, Faculty of Medicine, University of
+Southampton, Southampton, UK.
+(9)NIHR Southampton Biomedical Research Centre, University of Southampton,
+University Hospital Southampton NHS Foundation Trust, Southampton, UK; Academic
+Unit of Human Development and Health, Faculty of Medicine, University of
+Southampton, Southampton, UK; Department of Biological Sciences, Faculty of
+Science, King Abdulaziz University, Jeddah, Saudi Arabia.
+(10)Department of Paediatrics, KK Women's and Children's Hospital, Singapore;
+Duke NUS Graduate School of Medicine, Singapore; Lee Kong Chian School of
+Medicine, Nanyang Technological University, Singapore.
+(11)Singapore Institute for Clinical Sciences (SICS), Agency for Science
+Technology and Research (A*STAR), Singapore; Department of Paediatrics, Yong Loo 
+Lin School of Medicine, National University of Singapore, Singapore.
+(12)Singapore Institute for Clinical Sciences (SICS), Agency for Science
+Technology and Research (A*STAR), Singapore; Department of Obstetrics and
+Gynaecology, Yong Loo Lin School of Medicine, National University of Singapore,
+Singapore.
+(13)Centre for Genetics of Health and Disease, University of Western, Australia; 
+Faculty of Health Science, Curtin University, Australia.
+(14)School of Medicine and Pharmacology, University of Western Australia,
+Australia.
+(15)Telethon Kids Institute, University of Western Australia, Perth, Australia.
+(16)Liggins Institute, University of Auckland, Auckland, New Zealand.
+(17)NIHR Southampton Biomedical Research Centre, University of Southampton,
+University Hospital Southampton NHS Foundation Trust, Southampton, UK; Academic
+Unit of Human Development and Health, Faculty of Medicine, University of
+Southampton, Southampton, UK; MRC Lifecourse Epidemiology Unit, University of
+Southampton, Southampton, UK.
+
+Experimental studies show a substantial contribution of early life environment to
+obesity risk through epigenetic processes. We examined inter-individual DNA
+methylation differences in human birth tissues associated with child's adiposity.
+We identified a novel association between the level of CpG methylation at birth
+within the promoter of the long non-coding RNA ANRIL (encoded at CDKN2A) and
+childhood adiposity at age 6-years. An association between ANRIL methylation and 
+adiposity was also observed in three additional populations; in birth tissues
+from ethnically diverse neonates, in peripheral blood from adolescents, and in
+adipose tissue from adults. Additionally, CpG methylation was associated with
+ANRIL expression in vivo, and CpG mutagenesis in vitro inhibited ANRIL promoter
+activity. Furthermore, CpG methylation enhanced binding to an Estrogen Response
+Element within the ANRIL promoter. Our findings demonstrate that perinatal
+methylation at loci relevant to gene function may be a robust marker of later
+adiposity, providing substantial support for epigenetic processes in mediating
+long-term consequences of early life environment on human health.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2017.03.037 
+PMCID: PMC5440605
+PMID: 28473239  [Indexed for MEDLINE]
+

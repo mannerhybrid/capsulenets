@@ -1,0 +1,32 @@
+
+1. Curr Atheroscler Rep. 2015 Dec;17(12):73. doi: 10.1007/s11883-015-0545-2.
+
+Novel Approaches to Targeting Visceral and Hepatic Adiposities in HIV-Associated 
+Lipodystrophy.
+
+Tien PC(1)(2).
+
+Author information: 
+(1)Department of Medicine, University of California, San Francisco, CA, 94143,
+USA. ptien@ucsf.edu.
+(2)Medical Service, Department of Veterans Affairs Medical Center, San Francisco,
+4150 Clement Street, 111W, San Francisco, CA, 94121, USA. ptien@ucsf.edu.
+
+Visceral and hepatic adiposities have been associated with both cardiovascular
+and liver disease and are of concern in HIV-infected persons in the modern era of
+combination antiretroviral therapy (ART). The development of therapeutic targets 
+to reduce visceral and hepatic adiposities in HIV-infected persons has been slow,
+because of early reports that attributed the excess adiposity to specific
+antiretroviral drugs. Visceral adiposity was initially thought to occur as part
+of a protease inhibitor-induced "HIV-associated lipodystrophy syndrome."
+Subsequent studies show that visceral adiposity is likely a result of effective
+ART, recovery of health, and the normal aging process. Visceral adiposity is an
+established risk factor for hepatic adiposity. Identifying drug targets for
+non-alcoholic fatty liver disease is under active investigation. The present
+review summarizes the recent literature on the pathogenesis of visceral and
+hepatic adiposities in HIV-infected persons, current therapeutic strategies, and 
+novel interventions in HIV-infected and uninfected persons.
+
+DOI: 10.1007/s11883-015-0545-2 
+PMID: 26493063  [Indexed for MEDLINE]
+

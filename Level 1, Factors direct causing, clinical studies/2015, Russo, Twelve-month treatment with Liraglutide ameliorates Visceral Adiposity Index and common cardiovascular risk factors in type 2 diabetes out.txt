@@ -1,0 +1,46 @@
+
+1. J Endocrinol Invest. 2015 Jan;38(1):81-9. doi: 10.1007/s40618-014-0163-9. Epub
+2014 Aug 31.
+
+Twelve-month treatment with Liraglutide ameliorates Visceral Adiposity Index and 
+common cardiovascular risk factors in type 2 diabetes outpatients.
+
+Russo GT(1), Labate AM(2), Giandalia A(2), Romeo EL(2), Villari P(2), Alibrandi
+A(3), Perdichizzi G(2), Cucinotta D(2).
+
+Author information: 
+(1)Department of Clinical and Experimental Medicine, Policlinico Universitario G.
+Martino, University of Messina, Via C. Valeria, 98121, Messina, Italy.
+giuseppina.russo@unime.it.
+(2)Department of Clinical and Experimental Medicine, Policlinico Universitario G.
+Martino, University of Messina, Via C. Valeria, 98121, Messina, Italy.
+(3)Department of Economical, Business and Environmental Sciences and Quantitative
+Methods, University of Messina, Messina, Italy.
+
+AIM: In addition to the effects on glycemic control and body weight, GLP-1
+receptor agonists may favorably affect other major cardiovascular disease (CVD)
+risk factors, although currently available data are still sparse. In this
+retrospective study, we evaluated the effects of 12-month treatment with
+liraglutide on major CVD risk factors in 115 type 2 diabetes outpatients (60 men 
+and 55 women), on stable hypoglycemic, anti-hypertensive and/or lipid-lowering
+therapy.
+METHODS: Clinical and anthropometric data, metabolic and lipid profile, as well
+as the Visceral Adiposity Index (VAI), an obesity-related CVD risk factor, were
+measured in all participants at baseline and after 12-month treatment.
+RESULTS: Treatment with liraglutide was associated with a significant reduction
+from baseline values of fasting blood glucose (-42.1 mg/dl, P < 0.05), HbA1c
+(-1.5 %, -17 mmol/mol, P < 0.05), body weight (-7.1 kg, P < 0.05), waist
+circumference (-6.8 cm, P < 0.001), total-cholesterol (-27.4 mg/dl, P < 0.05),
+LDL-cholesterol (-25.4 mg/dl, P < 0.05), triglycerides (-56.1 mg/dl, P < 0.05),
+and non-HDL-C (-36.6 mg/dl, P < 0.05) and an increase of HDL-cholesterol
+concentrations (+9.3 mg/dl, P < 0.001), a significant reduction in both systolic 
+and diastolic blood pressure (-14.7 mmHg, P < 0.001 and -9.0 mmHg, P < 0.05,
+respectively) and a decrease of VAI values (-1.6, P < 0.001). All these
+differences were independent of changes in BMI and comparable in men and women.
+CONCLUSIONS: In conclusion, 12-month treatment with liraglutide in add-on to
+on-going hypoglycemic therapy significantly ameliorates all major CVD risk
+factors and reduces cardiometabolic risk, as estimated by VAI values.
+
+DOI: 10.1007/s40618-014-0163-9 
+PMID: 25173876  [Indexed for MEDLINE]
+

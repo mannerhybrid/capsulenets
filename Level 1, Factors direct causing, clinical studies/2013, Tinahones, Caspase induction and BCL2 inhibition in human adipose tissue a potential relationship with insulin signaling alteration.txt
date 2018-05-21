@@ -1,0 +1,43 @@
+
+1. Diabetes Care. 2013 Mar;36(3):513-21. doi: 10.2337/dc12-0194. Epub 2012 Nov 27.
+
+Caspase induction and BCL2 inhibition in human adipose tissue: a potential
+relationship with insulin signaling alteration.
+
+Tinahones FJ(1), Coín Aragüez L, Murri M, Oliva Olivera W, Mayas Torres MD,
+Barbarroja N, Gomez Huelgas R, Malagón MM, El Bekay R.
+
+Author information: 
+(1)CIBER in Physiopathology of Obesity and Nutrition (CB06/03), Instituto de
+Salud Carlos III, Spain. fjtinahones@hotmail.com
+
+OBJECTIVE: Cell death determines the onset of obesity and associated insulin
+resistance. Here, we analyze the relationship among obesity, adipose tissue
+apoptosis, and insulin signaling.
+RESEARCH DESIGN AND METHODS: The expression levels of initiator (CASP8/9) and
+effector (CASP3/7) caspases as well as antiapoptotic B-cell lymphoma (BCL)2 and
+inflammatory markers were assessed in visceral (VAT) and subcutaneous (SAT)
+adipose tissue from patients with different degrees of obesity and without
+insulin resistance or diabetes. Adipose tissue explants from lean subjects were
+cultured with TNF-α or IL-6, and the expression of apoptotic and insulin
+signaling components was analyzed and compared with basal expression levels in
+morbidly obese subjects.
+RESULTS: SAT and VAT exhibited increased CASP3/7 and CASP8/9 expression levels
+and decreased BCL2 expression with BMI increase. These changes were accompanied
+by increased inflammatory cytokine mRNA levels and macrophage infiltration
+markers. In obese subjects, CASP3/7 activation and BCL2 downregulation correlated
+with the IRS-1/2-expression levels. Expression levels of caspases, BCL2, p21,
+p53, IRS-1/2, GLUT4, protein tyrosine phosphatase 1B, and leukocyte
+antigen-related phosphatase in TNF-α- or IL-6-treated explants from lean subjects
+were comparable with those found in adipose tissue samples from morbidly obese
+subjects. These insulin component expression levels were reverted with CASP3/7
+inhibition in these TNF-α- or IL-6-treated explants.
+CONCLUSIONS: Body fat mass increase is associated with CASP3/7 and BCL2
+expression in adipose tissue. Moreover, this proapoptotic state correlated with
+insulin signaling, suggesting its potential contribution to the development of
+insulin resistance.
+
+DOI: 10.2337/dc12-0194 
+PMCID: PMC3579349
+PMID: 23193206  [Indexed for MEDLINE]
+

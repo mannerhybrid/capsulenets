@@ -1,0 +1,72 @@
+
+1. Diabetes. 2015 Mar;64(3):840-55. doi: 10.2337/db14-0245. Epub 2014 Sep 23.
+
+Adipocyte ATP-binding cassette G1 promotes triglyceride storage, fat mass growth,
+and human obesity.
+
+Frisdal E(1), Le Lay S(2), Hooton H(3), Poupel L(4), Olivier M(5), Alili R(6),
+Plengpanich W(7), Villard EF(1), Gilibert S(1), Lhomme M(4), Superville A(1),
+Miftah-Alkhair L(8), Chapman MJ(5), Dallinga-Thie GM(9), Venteclef N(6), Poitou
+C(10), Tordjman J(6), Lesnik P(1), Kontush A(1), Huby T(1), Dugail I(6), Clement 
+K(10), Guerin M(1), Le Goff W(11).
+
+Author information: 
+(1)INSERM, UMR_S1166, Team 4, Paris, France Université Pierre et Marie
+Curie-Paris 6, Paris, France Institute of Cardiometabolism and Nutrition,
+Pitié-Salpêtrière Hospital, Paris, France.
+(2)INSERM, U1063, Angers, France.
+(3)Université Pierre et Marie Curie-Paris 6, Paris, France INSERM, U872,
+Nutriomique Team 7, Cordeliers Research Center, Paris, France.
+(4)Institute of Cardiometabolism and Nutrition, Pitié-Salpêtrière Hospital,
+Paris, France.
+(5)INSERM, UMR_S1166, Team 4, Paris, France Université Pierre et Marie
+Curie-Paris 6, Paris, France.
+(6)Université Pierre et Marie Curie-Paris 6, Paris, France Institute of
+Cardiometabolism and Nutrition, Pitié-Salpêtrière Hospital, Paris, France INSERM,
+U872, Nutriomique Team 7, Cordeliers Research Center, Paris, France.
+(7)INSERM, UMR_S1166, Team 4, Paris, France King Chulalongkorn Memorial Hospital,
+Thai Red Cross Society, Patumwan, Bangkok, Thailand.
+(8)INSERM, UMR_S1166, Team 4, Paris, France.
+(9)Laboratory of Vascular Medicine, AMC Amsterdam, Amsterdam, the Netherlands.
+(10)Université Pierre et Marie Curie-Paris 6, Paris, France Institute of
+Cardiometabolism and Nutrition, Pitié-Salpêtrière Hospital, Paris, France INSERM,
+U872, Nutriomique Team 7, Cordeliers Research Center, Paris, France Heart and
+Metabolism, Assistance-Publique Hôpitaux de Paris, Pitié-Salpêtrière Hospital,
+Paris, France.
+(11)INSERM, UMR_S1166, Team 4, Paris, France Université Pierre et Marie
+Curie-Paris 6, Paris, France Institute of Cardiometabolism and Nutrition,
+Pitié-Salpêtrière Hospital, Paris, France wilfried.le_goff@upmc.fr.
+
+Comment in
+    Diabetes. 2015 Mar;64(3):689-92.
+
+The role of the ATP-binding cassette G1 (ABCG1) transporter in human
+pathophysiology is still largely unknown. Indeed, beyond its role in mediating
+free cholesterol efflux to HDL, the ABCG1 transporter equally promotes lipid
+accumulation in a triglyceride (TG)-rich environment through regulation of the
+bioavailability of lipoprotein lipase (LPL). Because both ABCG1 and LPL are
+expressed in adipose tissue, we hypothesized that ABCG1 is implicated in
+adipocyte TG storage and therefore could be a major actor in adipose tissue fat
+accumulation. Silencing of Abcg1 expression by RNA interference in 3T3-L1
+preadipocytes compromised LPL-dependent TG accumulation during the initial phase 
+of differentiation. Generation of stable Abcg1 knockdown 3T3-L1 adipocytes
+revealed that Abcg1 deficiency reduces TG storage and diminishes lipid droplet
+size through inhibition of Pparγ expression. Strikingly, local inhibition of
+adipocyte Abcg1 in adipose tissue from mice fed a high-fat diet led to a rapid
+decrease of adiposity and weight gain. Analysis of two frequent ABCG1 single
+nucleotide polymorphisms (rs1893590 [A/C] and rs1378577 [T/G]) in morbidly obese 
+individuals indicated that elevated ABCG1 expression in adipose tissue was
+associated with increased PPARγ expression and adiposity concomitant to increased
+fat mass and BMI (haplotype AT>GC). The critical role of ABCG1 in obesity was
+further confirmed in independent populations of severe obese and diabetic obese
+individuals. This study identifies for the first time a major role of adipocyte
+ABCG1 in adiposity and fat mass growth and suggests that adipose ABCG1 might
+represent a potential therapeutic target in obesity.
+
+© 2015 by the American Diabetes Association. Readers may use this article as long
+as the work is properly cited, the use is educational and not for profit, and the
+work is not altered.
+
+DOI: 10.2337/db14-0245 
+PMID: 25249572  [Indexed for MEDLINE]
+

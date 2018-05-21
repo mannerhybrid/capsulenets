@@ -1,0 +1,41 @@
+
+1. Ethn Dis. 2012 Winter;22(1):65-71.
+
+Exploring differences in adiposity in two U.S. Hispanic populations of Mexican
+origin using social, behavioral, physiologic and genetic markers: the IRAS Family
+Study.
+
+Young KA(1), Fingerlin TE, Langefeld CD, Lorenzo C, Haffner SM, Wagenknecht LE,
+Norris JM.
+
+Author information: 
+(1)Department of Epidemiology, Colorado School of Public Health, University of
+Colorado Denver, Aurora, Colorado 80045, USA.
+
+OBJECTIVE: The census classification of Hispanic origin is used in
+epidemiological studies to group individuals, even though there is geographical, 
+cultural, and genetic diversity within Hispanic Americans of purportedly similar 
+backgrounds. We observed differences in our measures of adiposity between our two
+Mexican American populations, and examined whether these differences were
+attributed to social, behavioral, physiologic or genetic differences between the 
+two populations.
+RESEARCH DESIGN AND METHODS: In the IRAS Family Study, we examined 478 Hispanics 
+from San Antonio, Texas and 447 Hispanics from the San Luis Valley, Colorado.
+Associations with body mass index (BMI), visceral adipose tissue area (VAT), and 
+subcutaneous adipose tissue area (SAT) using social, behavioral, physiologic and 
+genetic variables were examined.
+RESULTS: Hispanics of Mexican origin in our clinic population in San Antonio had 
+significantly higher mean BMI (31.09 vs. 28.35 kg/m2), VAT (126.3 vs. 105.5 cm2),
+and SAT (391.6 vs. 336.9 cm2), than Hispanics of Mexican origin in the San Luis
+Valley. The amount of variation in adiposity explained by clinic population was
+4.5% for BMI, 2.8% for VAT, and 2.7% for SAT. After adjustment, clinic population
+was no longer associated with VAT and SAT, but remained associated with BMI,
+although the amount of variation explained by population was substantially less
+(1.0% for BMI).
+CONCLUSION: Adiposity differences within this population of Mexican origin can be
+largely explained by social, behavioral, physiologic and genetic differences.
+
+
+PMCID: PMC4020784
+PMID: 22774311  [Indexed for MEDLINE]
+

@@ -1,0 +1,60 @@
+
+1. Mol Nutr Food Res. 2018 Apr 24:e1700933. doi: 10.1002/mnfr.201700933. [Epub ahead
+of print]
+
+An Epigenetic Signature in Adipose Tissue is Linked to Nicotinamide
+N-Methyltransferase Gene Expression.
+
+Crujeiras AB(1), Pissios P(2), Moreno-Navarrete JM(3), Diaz-Lagares A(4),
+Sandoval J(5), Gomez A(6), Ricart W(3), Esteller M(7), Casanueva FF(1),
+Fernandez-Real JM(3).
+
+Author information: 
+(1)Laboratory of Molecular and Cellular Endocrinology, Instituto de Investigación
+Sanitaria (IDIS), Complejo Hospitalario Universitario de Santiago (CHUS/SERGAS)
+and Santiago de Compostela University (USC), Santiago de Compostela, CIBER
+Fisiopatología de la Obesidad y Nutrición (CIBERobn), Spain, Madrid, Spain.
+(2)Division of Endocrinology, Diabetes, and Metabolism, Beth Israel Deaconess
+Medical Center, Boston, MA, USA.
+(3)Department of Diabetes, Endocrinology and Nutrition, Institut D'investigació
+Biomèdica De Girona (IdIBGi), CIBER Fisiopatología de la Obesidad y Nutrición
+(CIBERobn), Girona, Spain, Madrid, Spain.
+(4)The Division of Medical Oncology, Instituto de Investigacion Sanitaria de
+Santiago (IDIS), Complejo Hospitalario Universitario de Saantiago (CHUS/SERGAS)
+and CIBERonc, Santiago de Compostela, Spain.
+(5)Laboratory of Personalized Medicine, Epigenomics Unit, Medical Research
+Institute La Fe, Valencia, Spain.
+(6)Cancer Epigenetics and Biology Program (PEBC), Bellvitge Biomedical Research
+Institute (IDIBELL), L'Hospitalet, Catalonia, Spain.
+(7)Cancer Epigenetics and Biology Program (PEBC), Bellvitge Biomedical Research
+Institute (IDIBELL), L'Hospitalet, Catalonia, Spain, Institucio Catalana de
+Recerca i Estudis Avançats (ICREA), Passeig de Lluís Companys, 23, Barcelona,
+Catalonia, Spain.
+
+SCOPE: The enzyme nicotinamide N-methyltransferase (NNMT) is a major
+methyltransferase in adipose tissue. We hypothesized an epigenetic signature in
+association with NNMT gene expression in adipose tissue.
+METHODS AND RESULTS: The global human methylome was analyzed in visceral adipose 
+tissue (VAT) from morbidly obese patients using the Infinium HumanMethylation450 
+BeadChip array (discovery cohort: n  =  11). The findings were confirmed in two
+additional independent cohorts (Cohort 1: n  =  60; BMI 20-60 kg/m2 and cohort 2:
+n  =  40; BMI >40 kg/m2 ) and validated after weight loss (using microarray
+data). Among the genes associated with the largest methylation fold change were
+genes related to metabolic processes, proliferation, inflammation, and
+extracellular matrix remodeling, such as COL23A1, PLEC1, FBXO21, STEAP3, RGS12,
+IGDCC3, FOXK2, and ORAI2. In fact, the results showed 577 differentially
+methylated CpG sites (DMCpGs) associated with the NNMT expression levels, with
+low methylation levels paralleling high NNMT expression. The expression of FBXO21
+and FOXK2 was specifically modified after weight loss concomitantly with a
+decrease in NNMT expression and inflammation-related genes. Interestingly, the
+adipose tissue NNMT gene expression correlated with markers of adipose tissue
+inflammation.
+CONCLUSIONS: The expression of NNMT in VAT is associated with a specific
+methylome signature involving genes linked to adipose tissue metabolic
+pathophysiology. This article is protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/mnfr.201700933 
+PMID: 29688621 
+

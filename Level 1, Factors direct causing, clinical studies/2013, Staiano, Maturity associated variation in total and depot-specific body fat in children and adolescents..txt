@@ -1,0 +1,41 @@
+
+1. Am J Hum Biol. 2013 Jul-Aug;25(4):473-9. doi: 10.1002/ajhb.22380. Epub 2013 Apr
+6.
+
+Maturity-associated variation in total and depot-specific body fat in children
+and adolescents.
+
+Staiano AE(1), Broyles ST, Gupta AK, Malina RM, Katzmarzyk PT.
+
+Author information: 
+(1)Pennington Biomedical Research Center, Baton Rouge, LA 70808, USA.
+
+OBJECTIVES: This study considered the association between sexual maturation and
+adiposity in children and adolescents, and examined the contribution of sexual
+maturation to ethnic differences in total and depot-specific body fat.
+METHODS: The sample included 382 White and African American 5-18-year-olds. Body 
+mass index (BMI), waist circumference (WC) and sexual maturity status
+(breast/genital and pubic hair stage) were assessed in a clinical setting. Total 
+body fat (TBF) was measured by dual-energy X-ray absorptiometry and abdominal
+subcutaneous (SAT) and visceral adipose tissue (VAT) were measured by magnetic
+resonance imaging. Analysis of covariance adjusted for age was used to examine
+the association between sexual maturity status and adiposity, and linear
+regression adjusted for age was used to examine the influence of sexual
+maturation on ethnic differences in adiposity. Analysis of VAT also controlled
+for TBF. Significance was accepted at P < 0.05.
+RESULTS: Breast/genital stage was significantly associated with BMI, WC, TBF, and
+SAT in girls of both ethnic groups and in White boys. Breast stage was associated
+with VAT. Stage of pubic hair was significantly associated with TBF and VAT in
+White girls only. In girls, sexual maturation attenuated the ethnic effects on
+BMI and WC, but the ethnic effect in VAT persisted. In boys, sexual maturation
+did not attenuate ethnic differences on VAT and did not predict WC or SAT. Sexual
+maturity status independently explained variance in adiposity in girls only.
+CONCLUSIONS: Sexual maturity status is an important determinant of pediatric
+adiposity and attenuates ethnic differences in girls' adiposity.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajhb.22380 
+PMCID: PMC3947527
+PMID: 23564417  [Indexed for MEDLINE]
+

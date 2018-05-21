@@ -1,0 +1,36 @@
+
+1. Diabetes. 2013 Jun;62(6):1923-31. doi: 10.2337/db12-0977. Epub 2013 Jan 11.
+
+Decreased RB1 mRNA, protein, and activity reflect obesity-induced altered
+adipogenic capacity in human adipose tissue.
+
+Moreno-Navarrete JM(1), Petrov P, Serrano M, Ortega F, García-Ruiz E, Oliver P,
+Ribot J, Ricart W, Palou A, Bonet ML, Fernández-Real JM.
+
+Author information: 
+(1)Service of Diabetes, Endocrinology and Nutrition, Institut d'Investigació
+Biomèdica de Girona and CIBER Fisiopatología de la Obesidad y Nutrición
+CB06/03/010, Girona, Spain.
+
+Retinoblastoma (Rb1) has been described as an essential player in white adipocyte
+differentiation in mice. No studies have been reported thus far in human adipose 
+tissue or human adipocytes. We aimed to investigate the possible role and
+regulation of RB1 in adipose tissue in obesity using human samples and animal and
+cell models. Adipose RB1 (mRNA, protein, and activity) was negatively associated 
+with BMI and insulin resistance (HOMA-IR) while positively associated with the
+expression of adipogenic genes (PPARγ and IRS1) in both visceral and subcutaneous
+human adipose tissue. BMI increase was the main contributor to adipose RB1
+downregulation. In rats, adipose Rb1 gene expression and activity decreased in
+parallel to dietary-induced weight gain and returned to baseline with weight
+loss. RB1 gene and protein expression and activity increased significantly during
+human adipocyte differentiation. In fully differentiated adipocytes, transient
+knockdown of Rb1 led to loss of the adipogenic phenotype. In conclusion, Rb1
+seems to play a permissive role for human adipose tissue function, being
+downregulated in obesity and increased during differentiation of human
+adipocytes. Rb1 knockdown findings further implicate Rb1 as necessary for
+maintenance of adipogenic characteristics in fully differentiated adipocytes.
+
+DOI: 10.2337/db12-0977 
+PMCID: PMC3661645
+PMID: 23315497  [Indexed for MEDLINE]
+

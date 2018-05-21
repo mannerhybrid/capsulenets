@@ -1,0 +1,43 @@
+
+1. Arch Med Res. 2013 Jul;44(5):361-9. doi: 10.1016/j.arcmed.2013.06.001. Epub 2013 
+Jul 16.
+
+In vitro and in vivo effects of IGF-I on adiposity in HIV-associated metabolic
+disease: a pilot study.
+
+Kim RJ(1), Vaghani S, Zifchak LM, Quinn JH, He W, Tebas P, Frank I.
+
+Author information: 
+(1)Department of Pediatrics, University of Texas Southwestern Medical Center,
+Dallas, Texas. Electronic address: roy.kim@utsouthwestern.edu.
+
+BACKGROUND AND AIMS: We tested the effects of recombinant insulin-like growth
+factor-I (IGF-I) in an adipocyte model of HIV lipodystrophy and in an open label 
+study on body composition and metabolism in patients with HIV lipodystrophy.
+METHODS: The effects of IGF-I on ritonavir-induced adipocyte cell death were
+studied in vitro. We assessed lipid accumulation, IGF signaling, apoptosis, and
+gene expression. We conducted a 24-week open label trial of recombinant IGF-I in 
+ten adults with HIV associated lipoatrophy. Laboratory assessments included
+glucose, insulin, lipids, and IGF-I. At weeks 0 and 24, body composition studies 
+were performed including skinfold measurement, dual-energy x-ray absorptiometry, 
+and computed tomography of the abdomen and thigh.
+RESULTS: In vitro, ritonavir increased delipidation and apoptosis of adipocytes, 
+whereas co-treatment with IGF-I attenuated the effect. In the clinical study,
+subcutaneous adipose tissue did not increase in patients after treatment with
+IGF-I; however, there was a decrease in the proportion of abdominal fat (39.8 ±
+7% vs. 34.6 ± 7%, p = 0.007). IGF-I levels increased with treatment (143 ± 28
+μg/L at week 0 vs. 453 ± 212 μg/L at week 24, p = 0.002), whereas IGFBP-3 levels 
+declined (3.554 ± 1.146 mg/L vs. 3.235 ± 1.151 mg/L, p = 0.02). Insulin at week
+12 decreased significantly (90.1 ± 39.8 pmol/L vs. 33.2 ± 19.6 pmol/L, p =
+0.002). There was a nonsignificant decrease in visceral adipose tissue (155.2 ±
+68 cm² at week 0 vs. 140.6 ± 70 cm² at week 24, p = 0.08).
+CONCLUSIONS: Use of recombinant IGF-I may lower fasting insulin and abdominal fat
+in patients with lipoatrophy associated with HIV infection. Further evaluation of
+this agent for treatment of HIV-associated lipodystrophy may be warranted.
+
+Copyright © 2013 IMSS. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.arcmed.2013.06.001 
+PMCID: PMC4234118
+PMID: 23867790  [Indexed for MEDLINE]
+

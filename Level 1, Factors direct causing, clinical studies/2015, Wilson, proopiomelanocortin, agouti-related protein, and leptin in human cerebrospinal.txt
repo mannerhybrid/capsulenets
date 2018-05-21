@@ -1,0 +1,51 @@
+
+1. Am J Physiol Endocrinol Metab. 2015 Sep 1;309(5):E458-65. doi:
+10.1152/ajpendo.00206.2015. Epub 2015 Jul 7.
+
+Proopiomelanocortin, agouti-related protein, and leptin in human cerebrospinal
+fluid: correlations with body weight and adiposity.
+
+Page-Wilson G(1), Meece K(1), White A(2), Rosenbaum M(3), Leibel RL(3), Smiley
+R(4), Wardlaw SL(5).
+
+Author information: 
+(1)Department of Medicine, Columbia University College of Physicians and
+Surgeons, New York, New York;
+(2)Faculties of Life Sciences and Medical and Human Sciences, University of
+Manchester, Manchester, United Kingdom;
+(3)Department of Pediatrics, Columbia University College of Physicians and
+Surgeons, New York, New York; and.
+(4)Department of Anesthesiology, Columbia University College of Physicians and
+Surgeons, New York, New York.
+(5)Department of Medicine, Columbia University College of Physicians and
+Surgeons, New York, New York; sw22@cumc.columbia.edu.
+
+Leptin and its neuronal targets, which produce proopiomelanocortin (POMC) and
+agouti-related protein (AgRP), regulate energy balance. This study characterized 
+leptin, POMC, and AgRP in the cerebrospinal fluid (CSF) of 47 healthy human
+subjects, 23 lean and 24 overweight/obese (OW/OB), as related to BMI, adiposity, 
+plasma leptin, soluble leptin receptor (s-OB-R), and insulin. POMC was measured
+since the POMC prohormone is the predominant POMC peptide in CSF and correlates
+with hypothalamic POMC in rodents. Plasma AgRP was similarly characterized. CSF
+leptin was 83-fold lower than in plasma and correlated strongly with BMI, body
+fat, and insulin. The relative amount of leptin transported into CSF declined
+with increasing BMI, ranging from 4.5 to 0.52%, consistent with a saturable
+transport mechanism. CSF sOB-R was 78-fold lower than in plasma and correlated
+negatively with plasma and CSF leptin. CSF POMC was higher in lean vs. OW/OB
+subjects (P < 0.001) and correlated negatively with CSF leptin (r = -0.60, P <
+0.001) and with plasma leptin, insulin, BMI, and adiposity. CSF AgRP was not
+different in lean vs. OW/OB; however, plasma AgRP was higher in lean subjects (P 
+= 0.001) and correlated negatively with BMI, adiposity, leptin, insulin, and HOMA
+(P < 0.005). Thus, CSF measurements may provide useful biomarkers for brain
+leptin and POMC activity. The striking negative correlation between CSF leptin
+and POMC could be secondary to leptin resistance and/or neuronal changes
+associated with obesity but may also indicate that POMC plays a primary role in
+regulating body weight and adiposity. The role of plasma AgRP as a neuroendocrine
+biomarker deserves further study.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/ajpendo.00206.2015 
+PMCID: PMC4556883
+PMID: 26152765  [Indexed for MEDLINE]
+

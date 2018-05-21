@@ -1,0 +1,53 @@
+
+1. Int J Epidemiol. 2015 Aug;44(4):1277-87. doi: 10.1093/ije/dyu236. Epub 2014 Dec
+25.
+
+Adiposity is associated with DNA methylation profile in adipose tissue.
+
+Agha G(1), Houseman EA(2), Kelsey KT(3), Eaton CB(4), Buka SL(5), Loucks EB(5).
+
+Author information: 
+(1)Department of Environmental Health, Harvard School of Public Health, Boston,
+MA, USA, gagha@hsph.harvard.edu.
+(2)College of Public Health and Human Sciences, Oregon State University,
+Corvallis, OR, USA.
+(3)Department of Epidemiology, Brown University School of Public Health,
+Providence, RI, USA, Department of Pathology and Laboratory Medicine and.
+(4)Department of Epidemiology, Brown University School of Public Health,
+Providence, RI, USA, Department of Family Medicine, Alpert Medical School of
+Brown University, Providence, RI, USA.
+(5)Department of Epidemiology, Brown University School of Public Health,
+Providence, RI, USA.
+
+BACKGROUND: Adiposity is a risk factor for type 2 diabetes and cardiovascular
+disease, suggesting an important role for adipose tissue in the development of
+these conditions. The epigenetic underpinnings of adiposity are not well
+understood, and studies of DNA methylation in relation to adiposity have rarely
+focused on target adipose tissue. Objectives were to evaluate whether genome-wide
+DNA methylation profiles in subcutaneous adipose tissue and peripheral blood
+leukocytes are associated with measures of adiposity, including central fat mass,
+body fat distribution and body mass index.
+METHODS: Participants were 106 men and women (mean age 47 years) from the New
+England Family Study. DNA methylation was evaluated using the Infinium
+HumanMethylation450K BeadChip. Adiposity phenotypes included dual-energy X-ray
+absorptiometry-assessed android fat mass, android:gynoid fat ratio and trunk:limb
+fat ratio, as well as body mass index.
+RESULTS: Adipose tissue genome-wide DNA methylation profiles were associated with
+all four adiposity phenotypes, after adjusting for race, sex and current smoking 
+(omnibus p-values <0.001). After further adjustment for adipose cell-mixture
+effects, associations with android fat mass, android:gynoid fat ratio, and
+trunk:limb fat ratio remained. In gene-specific analyses, adiposity phenotypes
+were associated with adipose tissue DNA methylation in several genes that are
+biologically relevant to the development of adiposity, such as AOC3, LIPE, SOD3, 
+AQP7 and CETP. Blood DNA methylation profiles were not associated with adiposity,
+before or after adjustment for blood leukocyte cell mixture effects.
+CONCLUSION: Findings show that DNA methylation patterns in adipose tissue are
+associated with adiposity.
+
+© The Author 2014; all rights reserved. Published by Oxford University Press on
+behalf of the International Epidemiological Association.
+
+DOI: 10.1093/ije/dyu236 
+PMCID: PMC4588857
+PMID: 25541553  [Indexed for MEDLINE]
+

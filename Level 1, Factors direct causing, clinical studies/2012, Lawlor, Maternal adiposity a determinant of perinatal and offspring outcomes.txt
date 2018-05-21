@@ -1,0 +1,36 @@
+
+1. Nat Rev Endocrinol. 2012 Nov;8(11):679-88. doi: 10.1038/nrendo.2012.176. Epub
+2012 Sep 25.
+
+Maternal adiposity--a determinant of perinatal and offspring outcomes?
+
+Lawlor DA(1), Relton C, Sattar N, Nelson SM.
+
+Author information: 
+(1)MRC Centre for Causal Analyses in Translational Epidemiology, School of Social
+and Community Medicine, University of Bristol, Oakfield House, Oakfield Grove,
+Bristol BS8 2BN, UK. d.a.lawlor@bristol.ac.uk
+
+Experimental and animal data suggest that maternal obesity during pregnancy
+adversely affects offspring health in the short-term and the long-term. Whether
+these effects occur in humans and influence population health is less clear. This
+Review explores evidence from intervention studies and observational studies that
+have used designs (such as family-based comparisons and Mendelian randomization) 
+that might help improve understanding of the causal effects of maternal obesity
+in humans. Collectively, human studies provide evidence that maternal overweight 
+and obesity is causally related to pregnancy complications, increased offspring
+weight and adiposity at birth, and the difficulties associated with delivery of
+large-for-gestational-age infants. The underlying mechanisms for these effects
+probably involve maternal and fetal dysregulation of glucose, insulin, lipid and 
+amino acid metabolism. Some evidence exists that extreme maternal obesity (BMI
+≥40 kg/m(2)) is causally related to a long-term increase in offspring adiposity, 
+but further exploration of this relationship is needed. High gestational weight
+gain may result in a long-term increase in offspring adiposity if women are
+already overweight or have obesity at the start of pregnancy. To date, little
+high-quality human evidence exists that any of these effects are mediated by
+epigenetic mechanisms, but approaches to appropriately test this possibility are 
+being developed.
+
+DOI: 10.1038/nrendo.2012.176 
+PMID: 23007319  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. Metabolism. 2015 Sep;64(9):991-8. doi: 10.1016/j.metabol.2015.06.002. Epub 2015
+Jun 6.
+
+In adult twins, visceral fat accumulation depends more on exceeding sex-specific 
+adiposity thresholds than on genetics.
+
+Bosch TA(1), Chow L(2), Dengel DR(3), Melhorn SJ(4), Webb M(4), Yancey D(4),
+Callahan H(4), De Leon MR(4), Tyagi V(5), Schur EA(4).
+
+Author information: 
+(1)Department of Medicine, University of Minnesota Medical School, MMC 101, 420
+Delaware St SE, Minneapolis, MN 55455, USA. Electronic address: bosch041@umn.edu.
+(2)Department of Medicine, University of Minnesota Medical School, MMC 101, 420
+Delaware St SE, Minneapolis, MN 55455, USA.
+(3)School of Kinesiology, University of Minnesota, 1900 University Avenue SE,
+Minneapolis, MN 55455, USA.
+(4)Department of Medicine, University of Washington, Box 359780, 325 Ninth
+Avenue, Seattle, WA 98109, USA.
+(5)Simmons College, 300 Fenway, Boston, MA 02115, USA.
+
+OBJECTIVE: We recently reported sex-specific percent body fat (%BF) thresholds
+(males=23%, females=38%) above which, visceral adipose tissue (VAT) significantly
+increases. Using monozygotic (MZ) and dizygotic (DZ) twins, we examined the
+influence of genetics on regional fat distribution measured by dual-energy X-ray 
+absorptiometry, above and below these sex-specific thresholds for VAT
+accumulation.
+METHODS: Fifty-eight twin pairs (44 MZ, 14 DZ) were recruited from the University
+of Washington Twin Registry. Segmented linear regression was used to assess the
+threshold between VAT mass and %BF by sex and by zygosity. To assess the effect
+of genetics on VAT accumulation, Dunnett's T3 compared MZ and DZ pairs whether
+the twin pairs were both above the adiposity threshold or not.
+RESULTS: %BF thresholds for VAT accumulation were identified (%BF: M=20.6%,
+F=39.4%). Zygosity-specific thresholds were not significantly different (p>0.05).
+If at least one twin was below threshold, DZ twins still exhibited greater
+within-pair differences than MZ pairs in %BF (p=0.023) but not VAT (p=0.121).
+CONCLUSIONS: Using a twin study approach, we observed no difference by zygosity
+for the threshold as which VAT accumulates. Additionally, for the first time we
+observed that while total BF is influenced by genetics, VAT accumulation may
+depend more on whether a person's %BF is above their sex-specific adiposity
+threshold. These results suggest that there may not be a genetic predisposition
+for VAT accumulation but rather it is a result of a predisposition for total fat 
+accumulation.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.metabol.2015.06.002 
+PMCID: PMC4546509
+PMID: 26117000  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Int J Paediatr Dent. 2014 Mar;24(2):122-30. doi: 10.1111/ipd.12039. Epub 2013 May
+26.
+
+Is dental caries experience associated with adiposity status in preschool
+children?
+
+Peng SM(1), Wong HM, King NM, McGrath C.
+
+Author information: 
+(1)Paediatric Dentistry and Orthodontics, Faculty of Dentistry, The University of
+Hong Kong, Hong Kong, China; Department of Paediatric Dentistry, Guanghua School 
+of Stomatology, Hospital of Stomatology, Sun Yat-sen University, Guangzhou,
+China.
+
+Comment in
+    Int J Paediatr Dent. 2014 Sep;24(5):398.
+    Int J Paediatr Dent. 2014 Sep;24(5):397-8.
+
+BACKGROUND: To date, research on the relationship between dental caries
+experience and adiposity status is debated.
+AIM: To determine associations between dental caries experience and adiposity
+status among a community sample of preschool children in Hong Kong.
+DESIGN: Among a random sample of 5-year-old children, clinical assessment for
+dental caries was conducted using WHO criteria. Anthropometric measurements for
+body weight, body height, waist circumference (WC), hip circumference, and
+triceps skinfold thickness (TRSKF) were performed to assess general adiposity,
+central adiposity, and peripheral adiposity. Associations between adiposity
+status and caries were examined in regression analyses.
+RESULTS: The response rate was 83.1% (324/390). Regression analyses (adjusted for
+tooth brushing habits, snacking habits, and socio-demographic factors) identified
+that weight/height ratio z-score was associated with caries experience:
+prevalence of dental caries experience (dmft > 0), OR 1.41 (95% CI 1.04, 1.91),
+and 'very high' caries experience (dmft ≥ SiC(10) Index value), OR 1.62, (95% CI 
+1.05, 2.50). In addition, WC z-score was associated with 'very high' caries
+experience (dmft ≥ SiC(10) Index value), OR 1.72, 95% CI 1.06, 2.81.
+CONCLUSION: In a Hong Kong community sample of preschool children, dental caries 
+experience was associated with general adiposity (as assessed by weight/height
+ratio) and central adiposity (as assessed by WC).
+
+© 2013 BSPD, IAPD and John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ipd.12039 
+PMID: 23711350  [Indexed for MEDLINE]
+

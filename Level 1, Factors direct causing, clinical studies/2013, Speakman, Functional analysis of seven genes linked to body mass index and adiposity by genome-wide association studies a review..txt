@@ -1,0 +1,46 @@
+
+1. Hum Hered. 2013;75(2-4):57-79. doi: 10.1159/000353585. Epub 2013 Sep 27.
+
+Functional analysis of seven genes linked to body mass index and adiposity by
+genome-wide association studies: a review.
+
+Speakman JR(1).
+
+Author information: 
+(1)Key State Laboratory of Molecular Developmental Biology, Institute of Genetics
+and Developmental Biology, Chinese Academy of Sciences, Beijing, PR China;
+Institute of Biological and Environmental Sciences, University of Aberdeen,
+Aberdeen, UK.
+
+Erratum in
+    Hum Hered. 2013;76(2):52.
+
+Genome-wide association studies (GWAS) have identified a total of about 40 single
+nucleotide polymorphisms (SNPs) that show significant linkage to body mass index,
+a widely utilised surrogate measure of adiposity. However, only 8 of these
+associations have been confirmed by follow-up GWAS using more sophisticated
+measures of adiposity (computed tomography). Among these 8, there is a SNP close 
+to the gene FTO which has been the subject of considerable work to diagnose its
+function. The remaining 7 SNPs are adjacent to, or within, the genes NEGR1,
+TMEM18, ETV5, FLJ35779, LINGO2, SH2B1 and GIPR, most of which are less well
+studied than FTO, particularly in the context of obesity. This article reviews
+the available data on the functions of these genes, including information gleaned
+from studies in humans and animal models. At present, we have virtually no
+information on the putative mechanism associating the genes FLJ35779 and LINGO2
+to obesity. All of these genes are expressed in the brain, and for 2 of them
+(SH2B1 and GIPR), a direct link to the appetite regulation system is known. SH2B1
+is an enhancer of intracellular signalling in the JAK-STAT pathway, and GIPR is
+the receptor for an appetite-linked hormone (GIP) produced by the alimentary
+tract. NEGR1, ETV5 and SH2B1 all have suggested roles in neurite outgrowth, and
+hence SNPs adjacent to these genes may affect development of the energy balance
+circuitry. Although the genes have central patterns of gene expression, implying 
+a central neuronal connection to energy balance, for at least 4 of them (NEGR1,
+TMEM18, SH2B1 and GIPR), there are also significant peripheral functions related 
+to adipose tissue biology. These functions may contribute to their effects on the
+obese phenotype.
+
+© 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000353585 
+PMID: 24081222  [Indexed for MEDLINE]
+

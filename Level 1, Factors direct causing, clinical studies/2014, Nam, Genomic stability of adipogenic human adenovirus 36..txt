@@ -1,0 +1,41 @@
+
+1. Int J Obes (Lond). 2014 Feb;38(2):321-4. doi: 10.1038/ijo.2013.67. Epub 2013 May 
+6.
+
+Genomic stability of adipogenic human adenovirus 36.
+
+Nam JH(1), Na HN(2), Atkinson RL(3), Dhurandhar NV(2).
+
+Author information: 
+(1)Department of Biotechnology, Catholic University of Korea, Bucheon, Korea.
+(2)Infections and Obesity Laboratory, Pennington Biomedical Research Center,
+Louisiana State University System, Baton Rouge, LA, USA.
+(3)Obetech Obesity Research Center, Richmond, VA, USA.
+
+Human adenovirus Ad36 increases adiposity in several animal models, including
+rodents and non-human primates. Importantly, Ad36 is associated with human
+obesity, which has prompted research to understand its epidemiology and to
+develop a vaccine to prevent a subgroup of obesity. For this purpose,
+understanding the genomic stability of Ad36 in vivo and in vitro infections is
+critical. Here, we examined whether in vitro cell passaging over a 14-year period
+introduced any genetic variation in Ad36. We sequenced the whole genome of
+Ad36-which was plaque purified in 1998 from the original strain obtained from
+American Type Culture Collection, and passaged approximately 12 times over the
+past 14 years (Ad36-2012). This DNA sequence was compared with a previously
+published sequence of Ad36 likely obtained from the same source (Ad36-1988).
+Compared with Ad36-1988, only two nucleotides were altered in Ad36-2012: a T
+insertion at nucleotide 1862, which may induce early termination of the E1B viral
+protein, and a T➝C transition at nucleotide 26 136. Virus with the T insertion
+(designated Ad36-2012-T6) was mixed with wild-type virus lacking the T insertion 
+(designated Ad36-2012-T5) in the viral stock. The transition at nucleotide 26 136
+does not change the encoded amino acid (aspartic acid) in the pVIII viral
+protein. The rate of genetic variation in Ad36 is ∼2.37 × 10(-6)
+mutations/nucleotide/passage. Of particular importance, there were no mutations
+in the E4orf1 gene, the critical gene for producing obesity. This
+very-low-variation rate should reduce concerns about genetic variability when
+developing Ad36 vaccines or developing assays for detecting Ad36 infection in
+populations.
+
+DOI: 10.1038/ijo.2013.67 
+PMID: 23732658  [Indexed for MEDLINE]
+

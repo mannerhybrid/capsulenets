@@ -1,0 +1,72 @@
+
+1. J Clin Endocrinol Metab. 2016 Nov;101(11):4229-4236. Epub 2016 Sep 1.
+
+A Common Variant and the Transcript Levels of MC4R Gene Are Associated With
+Adiposity in Children: The IDEFICS Study.
+
+Lauria F(1), Siani A(1), Picó C(1), Ahrens W(1), Bammann K(1), De Henauw S(1),
+Foraita R(1), Iacoviello L(1), Kourides Y(1), Marild S(1), Molnar D(1), Moreno
+LA(1), Pitsiladis Y(1), Sánchez J(1), Veidebaum T(1), Wang G(1), Russo P(1);
+IDEFICS consortium.
+
+Author information: 
+(1)Unit of Epidemiology and Population Genetics (F.L., A.S., P.R.), Institute of 
+Food Sciences, National Research Council, I-83100 Avellino, Italy; Laboratory of 
+Molecular Biology, Nutrition, and Biotechnology (Nutrigenomics) (C.P., J.S.),
+University of the Balearic Islands and Centro de Investigación Biomédica en Red
+Fisiopatología de la Obesidad y Nutrición, Palma de 07122 Mallorca, Spain;
+Leibniz Institute for Prevention Research and Epidemiology-BIPS (W.A., K.B.,
+R.F.), and Faculty of Mathematics and Computer Science (W.A.), University of
+Bremen, and Institute for Public Health and Nursing Research (K.B.), Faculty for 
+Human and Health Sciences, University Bremen, D-28359 Bremen, Germany; Department
+of Public Health (S.D.H.), Ghent University, 9000 Ghent, Belgium; Department of
+Epidemiology and Prevention (L.I.), Instituto di Ricovero e Cura a Carattere
+Scientifico Istituto Neurologico Mediterraneo NEUROMED, 86077 Pozzilli, Italy;
+Research and Education Institute of Child Health (Y.K.), 2015 Strovolos, Cyprus; 
+Department of Pediatrics (S.M.), Institute of Clinical Sciences, The Queen Silvia
+Children's Hospital, The Sahlgrenska Academy at the University of Gothenburg,
+SE-413 45 Göteborg, Sweden; Department of Paediatrics (D.M.), Medical Faculty,
+University of Pécs, 7622 Pécs, Hungary; GENUD (Growth, Exercise, Nutrition and
+Development) research group, Facultad de Ciencias de la Salud, Instituto
+Agroalimentario de Aragón (IA2), Instituto de Investigación Sanitaria Aragón (IIS
+Aragón), Centro de Investigación Biomédica en Red de Fisiopatología de la
+Obesidad y Nutrición (CIBERObn), (L.A.M.) Universidad de Zaragoza, 50009 Zaragoza
+(Spain) FIMS Reference Collaborating Centre of Sports Medicine for Anti-Doping
+Research (Y.P., G.W.), University of Brighton, Eastbourne BN2 4AT, United
+Kingdom; and National Institute for Health Development (T.V.), 11619 Tallinn,
+Estonia.
+
+CONTEXT: The melanocortin-4 receptor gene (MC4R) plays a pivotal role in the
+regulation of body fat and food and energy intake.
+OBJECTIVES: The objectives of the study were as follows: 1) to evaluate the
+association of variants rs17782313 and rs17700633 near the coding region of MC4R 
+and 2) to evaluate the association of the transcript levels of MC4R with
+adiposity indices and percentage of energy from fat, carbohydrates, and protein
+in children.
+DESIGN: The Identification and Prevention of Dietary- and Lifestyle-Induced
+Health Effects in Children and Infants (IDEFICS) cohort was used, with
+examinations at baseline (T0) and after 2 years (T1).
+SETTING AND PARTICIPANTS: A total of 16 228 schoolchildren (2-9 y) from eight
+European countries participated in the study. A random sample of 4381 children
+genotyped for MC4R variants and a subsample of 410 children with MC4R expression 
+data in peripheral blood cells (PBCs) were included in the analyses.
+MAIN OUTCOME MEASURES: Anthropometric measures and energy intake (total and from 
+fat, carbohydrates, and protein) served as outcomes for adiposity status and for 
+dietary behavior, respectively.
+RESULTS: At T0, the C allele of rs17782313 (minor frequency allele 23%) was
+significantly associated with higher values of adiposity indices (all P < .001). 
+No association was found between rs17700633 (minor frequency allele 28%) and the 
+variables under study. At T1, the C allele of rs17782313 was associated with a
+significantly higher increase in the adiposity indices over time (all P < .05).
+The MC4R expression levels in PBCs were inversely associated with body fat and
+energy intake from carbohydrates and directly with energy from fat (all P ≤ .05) 
+but were not influenced by variants rs17782313 and rs17700633.
+CONCLUSIONS: The common variant rs17782313 near MC4R was cross-sectionally and
+longitudinally associated with body mass index and measures of body fatness in
+children aged 2-9 years. We showed, for the first time in humans, that MC4R
+expression levels in PBCs are related to body fat distribution and percentage of 
+energy intake from carbohydrates and fat.
+
+DOI: 10.1210/jc.2016-1992 
+PMID: 27583473  [Indexed for MEDLINE]
+

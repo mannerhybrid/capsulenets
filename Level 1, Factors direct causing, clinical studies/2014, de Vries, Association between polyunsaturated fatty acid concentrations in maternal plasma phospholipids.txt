@@ -1,0 +1,46 @@
+
+1. Prostaglandins Leukot Essent Fatty Acids. 2014 Sep;91(3):81-5. doi:
+10.1016/j.plefa.2014.04.002. Epub 2014 Apr 25.
+
+Association between polyunsaturated fatty acid concentrations in maternal plasma 
+phospholipids during pregnancy and offspring adiposity at age 7: the MEFAB
+cohort.
+
+de Vries PS(1), Gielen M(2), Rizopoulos D(3), Rump P(4), Godschalk R(5), Hornstra
+G(6), Zeegers MP(6).
+
+Author information: 
+(1)Department of Epidemiology, Erasmus Medical Center, the Netherlands; NUTRIM
+School for Nutrition, Toxicology and Metabolism, Departments of Complex Genetics,
+Cluster of Genetics and Cell Biology, Maastricht University, the Netherlands.
+(2)NUTRIM School for Nutrition, Toxicology and Metabolism, Departments of Complex
+Genetics, Cluster of Genetics and Cell Biology, Maastricht University, the
+Netherlands. Electronic address: marij.gielen@maastrichtuniversity.nl.
+(3)Department of Biostatistics, Erasmus Medical Center, the Netherlands.
+(4)Department of Genetics, University of Groningen, University Medical Center
+Groningen, the Netherlands.
+(5)NUTRIM School for Nutrition, Toxicology and Metabolism, Department of
+Toxicology, Maastricht University, the Netherlands.
+(6)NUTRIM School for Nutrition, Toxicology and Metabolism, Departments of Complex
+Genetics, Cluster of Genetics and Cell Biology, Maastricht University, the
+Netherlands.
+
+Prenatal polyunsaturated fatty acid (PUFA) concentrations may be involved in the 
+prenatal programming of adiposity. In this study we therefore explored the
+association between maternal PUFA concentrations, measured up to four times
+during pregnancy, and offspring adiposity at age 7 in 234 mother-child pairs of
+the Maastricht Essential Fatty Acid Birth cohort. Only dihomo-gamma-linolenic
+acid (DGLA, an n-6 fatty acid) concentration was associated with adiposity: per
+standard deviation increase in relative DGLA concentration, BMI increased by
+0.44kg/m(2) (CI95: 0.16, 0.72), sum of skinfolds increased by 3.41mm (CI95: 1.88,
+4.95), waist circumference increased by 1.09cm (CI95: 0.40, 1.78), and plasma
+leptin concentration increased by 0.66µg/l (CI95: 0.20, 1.11). In conclusion,
+maternal DGLA throughout gestation was associated with increased BMI and some
+additional measures of adiposity at age 7. This suggests that maternal DGLA might
+play a role in or reflect the prenatal programming of adiposity.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.plefa.2014.04.002 
+PMID: 24813643  [Indexed for MEDLINE]
+

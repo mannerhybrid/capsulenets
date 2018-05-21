@@ -1,0 +1,50 @@
+
+1. J Clin Endocrinol Metab. 2016 Apr;101(4):1525-34. doi: 10.1210/jc.2015-4252. Epub
+2016 Mar 10.
+
+PDE5 Inhibition Ameliorates Visceral Adiposity Targeting the miR-22/SIRT1
+Pathway: Evidence From the CECSID Trial.
+
+Fiore D(1), Gianfrilli D(1), Giannetta E(1), Galea N(1), Panio G(1), di Dato
+C(1), Pofi R(1), Pozza C(1), Sbardella E(1), Carbone I(1), Naro F(1), Lenzi A(1),
+Venneri MA(1), Isidori AM(1).
+
+Author information: 
+(1)Department of Experimental Medicine (D.F., D.G., E.G., C.d.D., R.P., C.P.,
+E.S., A.L., M.A.V., A.M.I.), Sapienza University of Rome, 00161 Rome, Italy;
+Department of Radiological, Oncological and Pathological Sciences (N.G., I.C.),
+Sapienza University of Rome, 00161 Rome, Italy; and Department of Anatomical,
+Histological, Forensic, and Orthopaedic Sciences (G.P., F.N.), Sapienza
+University, 00161 Rome, Italy.
+
+CONTEXT: Visceral adiposity plays a significant role in cardiovascular risk. PDE5
+inhibitors (PDE5i) can improve cardiac function and insulin sensitivity in type 2
+diabetes patients.
+OBJECTIVE: To investigate whether PDE5i affect visceral adipose tissue (VAT),
+specifically epicardial fat (epicardial adipose tissue [EAT]), and what mechanism
+is involved, using microarray-based profiling of pharmacologically modulated
+microRNA (miRNAs).
+DESIGN: Randomized, double-blind, placebo-controlled study in type 2 diabetes.
+PATIENTS AND INTERVENTION: A total of 59 diabetic patients were randomized to
+receive 100-mg/d sildenafil or placebo for 12 weeks. Fat biopsies were collected 
+in a subgroup of patients. In a parallel protocol, db/db mice were randomized to 
+12 weeks of sildenafil or vehicle, and VAT was collected.
+MAIN OUTCOME AND MEASURES: Anthropometric and metabolic parameters, EAT
+quantification through cardiac magnetic resonance imaging, array of 2005
+circulating miRNAs, quantitative PCR, and flow cytometry of VAT.
+RESULTS: Compared with placebo, sildenafil reduced waist circumference (P = .024)
+and EAT (P = .045). Microarray analysis identified some miRNAs differentially
+regulated by sildenafil, including down-regulation of miR-22-3p, confirmed by
+real-time quantitative PCR (P < .001). Sildenafil's modulation of miR-22-3p
+expression was confirmed in vitro in HL1 cardiomyocytes. Up-regulation of SIRT1, 
+a known target of miR-22-3p, was found in both serum and sc fat in
+sildenafil-treated subjects. Compared with vehicle, 12-week sildenafil treatment 
+down-regulated miR-22-3p and up-regulated Sirtuin1 (SIRT1) gene expression in VAT
+from db/db mice, shifting adipose tissue cell composition toward a less inflamed 
+profile.
+CONCLUSIONS: Treatment with PDE5i in humans and murine models of diabetes
+improves VAT, targeting SIRT1 through a modulation of miR-22-3p expression.
+
+DOI: 10.1210/jc.2015-4252 
+PMID: 26964730  [Indexed for MEDLINE]
+

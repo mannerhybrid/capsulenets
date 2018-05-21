@@ -1,0 +1,29 @@
+
+1. Diabetes Obes Metab. 2013 Mar;15(3):284-6. doi: 10.1111/dom.12023. Epub 2012 Nov 
+8.
+
+Effect of the G-protein β3 subunit 825T allele on the change of body adiposity in
+obese female.
+
+Hwang IC(1), Kim KK, Ahn HY, Suh HS, Oh SW.
+
+Author information: 
+(1)Department of Family Medicine, Gachon University Gil Hospital, Incheon, South 
+Korea.
+
+No clinical studies on the lipolytic effect of guanine nucleotide-binding protein
+β3 subunit gene (GNB3) 825T polymorphism have been performed. This study was a
+subinvestigation of a 12-week randomized controlled trial (NCT01184560) for the
+additive effect of orlistat on sibutramine treatment. The analysis involved 101
+obese females aged 18-49 years, genotyped at the GNB3 825 locus. To exclude any
+influence from potential confounders, we used an analysis of covariance model.
+After the intervention, fat mass proportion in total weight loss was
+significantly lower in subjects with a T allele than in those without a T allele 
+(p = 0.034). GNB3 825T allele was associated with blunted fat mass reduction in
+obese females.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/dom.12023 
+PMID: 23061407  [Indexed for MEDLINE]
+

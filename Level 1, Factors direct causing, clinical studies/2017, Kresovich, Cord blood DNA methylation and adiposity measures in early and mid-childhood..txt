@@ -1,0 +1,55 @@
+
+1. Clin Epigenetics. 2017 Aug 15;9:86. doi: 10.1186/s13148-017-0384-9. eCollection
+2017.
+
+Cord blood DNA methylation and adiposity measures in early and mid-childhood.
+
+Kresovich JK(1)(2), Zheng Y(2), Cardenas A(3), Joyce BT(2), Rifas-Shiman SL(3),
+Oken E(3), Gillman MW(4), Hivert MF(3), Baccarelli AA(5), Hou L(2).
+
+Author information: 
+(1)Division of Epidemiology and Biostatistics, School of Public Health,
+University of Illinois at Chicago, Chicago, IL USA.
+(2)Center for Population Epigenetics, Robert H. Lurie Comprehensive Cancer Center
+and Department of Preventive Medicine, Northwestern University, Chicago, IL USA.
+(3)Division of Chronic Disease Research Across the Lifecourse (CoRAL), Department
+of Population Medicine, Harvard Medical School and Harvard Pilgrim Health Care
+Institute, Boston, MA USA.
+(4)Environmental Influences on Child Health Outcomes (ECHO) Program, Office of
+the Director, National Institutes of Health, Bethesda, MD USA.
+(5)Department of Environmental Health Science, Mailman School of Public Health,
+Columbia University, New York, NY USA.
+
+BACKGROUND: Excess adiposity in childhood is associated with numerous adverse
+health outcomes. As this condition is difficult to treat once present,
+identification of risk early in life can help inform and implement strategies to 
+prevent the onset of the condition. We performed an epigenome-wide association
+study to prospectively investigate the relationship between cord blood DNA
+methylation and adiposity measurements in childhood.
+METHODS: We measured genome-wide DNA methylation from 478 children in cord blood 
+and measured overall and central adiposity via skinfold caliper measurements in
+early (range 3.1-3.3 years) and mid-childhood (age range 7.3-8.3 years) and via
+dual X-ray absorptiometry (DXA) in mid-childhood. Final models were adjusted for 
+maternal age at enrollment, pre-pregnancy body mass index, education, folate
+intake during pregnancy, smoking during pregnancy, and gestational weight gain,
+and child sex, race/ethnicity, current age, and cord blood cell composition.
+RESULTS: We identified four promoter proximal CpG sites that were associated with
+adiposity as measured by subscapular (SS) and triceps (TR) ratio (SS:TR) in early
+childhood, in the genes KPRP, SCL9A10, MYLK2, and PRLHR. We additionally
+identified one gene body CpG site associated with early childhood SS + TR on
+PPAPDC1A; this site was nominally associated with SS + TR in mid-childhood.
+Higher methylation at one promoter proximal CpG site in MMP25 was also associated
+with SS:TR in mid-childhood. In regional analyses, methylation at an exonal
+region of GFPT2 was positively associated with SS:TR in early childhood. Finally,
+we identified regions of two long, non-coding RNAs which were associated with
+SS:TR (LOC100049716) and fat-free mass index (LOC102723493) in mid-childhood.
+CONCLUSION: This analysis identified novel CpG loci associated with adiposity
+outcomes. However, our results suggest little consistency across the various
+adiposity outcomes tested, particularly among the more accurate DXA measurements 
+of body composition. We recommend using caution when interpreting these
+associations.
+
+DOI: 10.1186/s13148-017-0384-9 
+PMCID: PMC5558655
+PMID: 28814982  [Indexed for MEDLINE]
+

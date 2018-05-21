@@ -1,0 +1,45 @@
+
+1. Eur J Endocrinol. 2010 Oct;163(4):601-7. doi: 10.1530/EJE-10-0241. Epub 2010 Aug 
+2.
+
+Adiposity and insulin resistance correlate with telomere length in middle-aged
+Arabs: the influence of circulating adiponectin.
+
+Al-Attas OS(1), Al-Daghri NM, Alokail MS, Alfadda A, Bamakhramah A, Sabico S,
+Pritlove D, Harte A, Tripathi G, McTernan PG, Kumar S, Chrousos G.
+
+Author information: 
+(1)Department of Biochemistry, Obesity Research Center, King Saud University,
+Riyadh, Kingdom of Saudi Arabia.
+
+OBJECTIVE: Studies in obesity have implicated adipocytokines in the development
+of insulin resistance, which in turn may lead to accelerated aging. In this
+study, we determined associations of chromosomal telomere length (TL) to markers 
+of obesity and insulin resistance in middle-aged adult male and female Arabs with
+and without diabetes mellitus type 2 (DMT2).
+DESIGN AND METHODS: One hundred and ninety-three non-diabetic and DMT2 subjects
+without complications (97 males and 96 females) participated in this
+cross-sectional study. Clinical data, as well as fasting blood samples, were
+collected. Serum glucose and lipid profile were determined using routine
+laboratory methods. Serum insulin, leptin, adiponectin, resistin, tumor necrosis 
+factor-α, and PAI-1 were quantified using customized multiplex assay kits. High
+sensitive C-reactive protein (hsCRP) and angiotensin II (ANG II) were measured
+using ELISAs. Circulating leukocyte TL was examined by quantitative real-time
+PCR.
+RESULTS: Circulating chromosomal leukocyte TL had significant inverse
+associations with body mass index (BMI), systolic blood pressure, fasting
+insulin, homeostasis model assessment of insulin resistance (HOMA-IR),
+low-density lipoprotein (LDL)- and total cholesterol, ANG II and hsCRP levels.
+Adiponectin, BMI, systolic blood pressure, and LDL cholesterol predicted 47% of
+the variance in TL (P<0.0001). HOMA-IR was the most significant predictor for TL 
+in males, explaining 35% of the variance (P=0.01). In females, adiponectin
+accounted for 28% of the variance in TL (P=0.01).
+CONCLUSION: Obesity and insulin resistance are associated with chromosomal TL
+among adult Arabs. Evidence of causal relations needs further investigation. The 
+positive association of adiponectin to TL has clinical implications as to the
+possible protective effects of this hormone from accelerated aging.
+
+DOI: 10.1530/EJE-10-0241 
+PMCID: PMC2938925
+PMID: 20679357  [Indexed for MEDLINE]
+

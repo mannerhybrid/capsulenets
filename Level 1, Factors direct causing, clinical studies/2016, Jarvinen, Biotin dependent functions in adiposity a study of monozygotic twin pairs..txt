@@ -1,0 +1,56 @@
+
+1. Int J Obes (Lond). 2016 May;40(5):788-95. doi: 10.1038/ijo.2015.237. Epub 2015
+Nov 25.
+
+Biotin-dependent functions in adiposity: a study of monozygotic twin pairs.
+
+Järvinen E(1), Ismail K(2), Muniandy M(1), Bogl LH(2), Heinonen S(1), Tummers
+M(1), Miettinen S(3)(4), Kaprio J(2)(5)(6), Rissanen A(1)(7), Ollikainen M(2),
+Pietiläinen KH(1)(5)(8).
+
+Author information: 
+(1)Obesity Research Unit, Research Programs Unit, Diabetes and Obesity,
+University of Helsinki, Helsinki, Finland.
+(2)Department of Public Health, University of Helsinki, Helsinki, Finland.
+(3)BioMediTech, University of Tampere, Tampere, Finland.
+(4)Science Center, Tampere University Hospital, Tampere, Finland.
+(5)FIMM, Institute for Molecular Medicine, University of Helsinki, Helsinki,
+Finland.
+(6)Department of Health, National Institute for Health and Welfare, Helsinki,
+Finland.
+(7)Department of Psychiatry, Helsinki University Central Hospital and University 
+of Helsinki, Helsinki, Finland.
+(8)Abdominal Center, Endocrinology, Helsinki University Central Hospital and
+University of Helsinki, Helsinki, Finland.
+
+BACKGROUND: Biotin acts as a coenzyme for carboxylases regulating lipid and
+amino-acid metabolism. We investigated alterations of the biotin-dependent
+functions in obesity and the downstream effects of biotin restriction in
+adipocytes in vitro.
+SUBJECTS: Twenty-four monozygotic twin pairs discordant for body mass index
+(BMI). Mean within-pair difference (heavy-lean co-twin, Δ) of BMI was
+6.0 kg m(-2) (range 3.1-15.2 kg m(-)(2)).
+METHODS: Adipose tissue (AT) DNA methylation, gene expression of AT and
+adipocytes, and leukocytes (real-time quantitative PCR), serum biotin, C-reactive
+protein (CRP) and triglycerides were measured in the twins. Human adipocytes were
+cultured in low and control biotin concentrations and analyzed for lipid droplet 
+content, mitochondrial morphology and mitochondrial respiration.
+RESULTS: The gene expression levels of carboxylases, PCCB and MCCC1, were
+upregulated in the heavier co-twins' leukocytes. ΔPCCB (r=0.91, P=0.0046) and
+ΔMCCC1 (r=0.79, P=0.036) correlated with ΔCRP within-pairs. Serum biotin levels
+were lower in the heavier (274 ng l(-1)) than in the lean co-twins (390 ng l(-1),
+P=0.034). ΔBiotin correlated negatively with Δtriglycerides (r=-0.56, P=0.045)
+within-pairs. In AT, HLCS and ACACB were hypermethylated and biotin cycle genes
+HLCS and BTD were downregulated (P<0.05). Biotin-dependent carboxylases were
+downregulated (ACACA, ACACB, PCCB, MCCC2 and PC; P<0.05) in both AT and
+adipocytes of the heavier co-twins. Adipocytes cultured in low biotin had
+decreased lipid accumulation, altered mitochondrial morphology and deficient
+mitochondrial respiration.
+CONCLUSIONS: Biotin-dependent functions are modified by adiposity independent of 
+genetic effects, and correlate with inflammation and hypertriglyceridemia. Biotin
+restriction decreases lipid accumulation and respiration, and alters
+mitochondrial morphology in adipocytes.
+
+DOI: 10.1038/ijo.2015.237 
+PMID: 26601567  [Indexed for MEDLINE]
+

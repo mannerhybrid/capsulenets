@@ -1,0 +1,48 @@
+
+1. Int J Obes (Lond). 2013 Apr;37(4):486-92. doi: 10.1038/ijo.2013.2. Epub 2013 Feb 
+12.
+
+Area-level deprivation and adiposity in children: is the relationship linear?
+
+Griffiths C(1), Gately P, Marchant PR, Cooke CB.
+
+Author information: 
+(1)Carnegie Faculty, Leeds Metropolitan University, Fairfax Hall, Headingley
+Campus, Leeds, UK. C.Griffiths@leedsmet.ac.uk
+
+Comment in
+    Int J Obes (Lond). 2014 Jan;38(1):161-2.
+    Int J Obes (Lond). 2014 Jan;38(1):160.
+
+OBJECTIVE: It has been suggested that childhood obesity is inversely associated
+with deprivation, such that the prevalence is higher in more deprived groups.
+However, comparatively few studies actually use an area-level measure of
+deprivation, limiting the scope to assess trends in the association with obesity 
+for this indicator. Furthermore, most assume a linear relationship. Therefore,
+the aim of this study was to investigate associations between area-level
+deprivation and three measures of adiposity in children: body mass index (BMI),
+waist circumference (WC) and waist-to-height ratio (WHtR).
+DESIGN: This is a cross-sectional study in which data were collected on three
+occasions a year apart (2005-2007).
+SUBJECTS: Data were available for 13,333 children, typically aged 11-12 years,
+from 37 schools and 542 lower super-output areas (LSOAs).
+MEASURES: Stature, mass and WC. Obesity was defined as a BMI and WC exceeding the
+95th centile according to British reference data. WHtR exceeding 0.5 defined
+obesity. The Index of Multiple Deprivation affecting children (IDACI) was used to
+determine area-level deprivation.
+RESULTS: Considerable differences in the prevalence of obesity exist between the 
+three different measures. However, for all measures of adiposity the highest
+probability of being classified as obese is in the middle of the IDACI range.
+This relationship is more marked in girls, such that the probability of being
+obese for girls living in areas at the two extremes of deprivation is around half
+that at the peak, occurring in the middle.
+CONCLUSION: These data confirm the high prevalence of obesity in children and
+suggest that the relationship between obesity and residential area-level
+deprivation is not linear. This is contrary to the 'deprivation theory' and
+questions the current understanding and interpretation of the relationship
+between obesity and deprivation in children. These results could help make
+informed decisions at the local level.
+
+DOI: 10.1038/ijo.2013.2 
+PMID: 23399775  [Indexed for MEDLINE]
+

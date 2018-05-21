@@ -1,0 +1,36 @@
+
+1. Pediatr Res. 2014 Sep;76(3):310-5. doi: 10.1038/pr.2014.88. Epub 2014 Jun 23.
+
+Association study of childhood obesity with eight genetic variants recently
+identified by genome-wide association studies.
+
+Meng XR(1), Song JY(1), Ma J(1), Liu FH(1), Shang XR(1), Guo XJ(1), Wang HJ(1).
+
+Author information: 
+(1)Institute of Child and Adolescent Health, School of Public Health, Peking
+University, Beijing, China.
+
+BACKGROUND: Being overweight or obese is becoming increasingly common in low- and
+middle-income countries. The present study aimed to examine association of eight 
+genetic variants with obesity and to estimate the cumulative effects of these
+variants in Chinese children.
+METHODS: We conducted the case-control study in a total of 2,030 subjects.
+Genotyping of seven novel variants was performed with matrix-assisted laser
+desorption ionization time of flight mass spectrometry, while rs9939609 was
+genotyped with tetra-primer amplification refractory mutation system analysis.
+RESULTS: The association of two fat mass and obesity-associated gene (FTO)
+single-nucleotide polymorphisms (SNPs; rs9939609 and rs62048402) with body mass
+index (BMI) or obesity reached nominal significance at P < 0.05. We found a
+cumulative effect of five SNPs on the risk of overweight and obesity (odds ratio 
+(OR) = 1.197, 95% confidence interval (CI) = 1.068-1.342, P = 0.002). Subjects
+carrying 9 or more effect alleles had a 127% increased risk of overweight and
+obesity (OR = 2.270, 95% CI = 1.403-3.671, P = 0.001) compared with subjects who 
+carry 6 or fewer effect alleles.
+CONCLUSION: We confirmed two FTO SNPs (rs62048402 and rs9939609) had nominal
+significant effects on BMI or obesity. We identified the cumulative effect of
+five SNPs on risk of overweight and obesity. The results provided evidence for
+identifying genetic factors related to childhood obesity.
+
+DOI: 10.1038/pr.2014.88 
+PMID: 24956226  [Indexed for MEDLINE]
+

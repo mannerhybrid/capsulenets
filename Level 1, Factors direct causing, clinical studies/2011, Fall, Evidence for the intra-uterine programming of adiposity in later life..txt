@@ -1,0 +1,36 @@
+
+1. Ann Hum Biol. 2011 Jul;38(4):410-28. doi: 10.3109/03014460.2011.592513. Epub 2011
+Jun 17.
+
+Evidence for the intra-uterine programming of adiposity in later life.
+
+Fall CH(1).
+
+Author information: 
+(1)MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton
+General Hospital, Southampton, UK. chdf@mrc.soton.ac.uk
+
+AIM: Research in animals has shown that altering foetal nutrition by
+under-nourishing or over-nourishing the mother or rendering her diabetic or
+foetal exposure to glucocorticoids and toxins can programme obesity in later
+life. The increased adiposity is mediated by permanent changes in appetite, food 
+choices, physical activity and energy metabolism. In humans, increased adiposity 
+has been shown in people who experienced foetal under-nutrition due to maternal
+famine or over-nutrition due to maternal diabetes. Lower birth weight (a proxy
+for foetal under-nutrition) is associated with a reduced adult lean mass and
+increased intra-abdominal fat. Higher birth-weight caused by maternal diabetes is
+associated with increased total fat mass and obesity in later life. There is
+growing evidence that maternal obesity, without diabetes, is also a risk factor
+for obesity in the child, due to foetal over-nutrition effects. Maternal smoking 
+is associated with an increased risk of obesity in the children, although a
+causal link has not been proven. Other foetal exposures associated with increased
+adiposity in animals include glucocorticoids and endocrine disruptors.
+CONCLUSIONS: Reversing the current obesity epidemic will require greater
+attention to, and better understanding of, these inter-generational
+(mother-offspring) factors that programme body composition during early
+development.
+
+DOI: 10.3109/03014460.2011.592513 
+PMCID: PMC3428869
+PMID: 21682572  [Indexed for MEDLINE]
+

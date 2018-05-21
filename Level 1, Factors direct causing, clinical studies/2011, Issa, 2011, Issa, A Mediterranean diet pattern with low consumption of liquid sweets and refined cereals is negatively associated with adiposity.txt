@@ -1,0 +1,44 @@
+
+1. Int J Obes (Lond). 2011 Feb;35(2):251-8. doi: 10.1038/ijo.2010.130. Epub 2010 Jul
+6.
+
+A Mediterranean diet pattern with low consumption of liquid sweets and refined
+cereals is negatively associated with adiposity in adults from rural Lebanon.
+
+Issa C(1), Darmon N, Salameh P, Maillot M, Batal M, Lairon D.
+
+Author information: 
+(1)INRA, UMR 1260, Nutriments Lipidiques et Prévention des Maladies Métaboliques,
+Marseille, France.
+
+BACKGROUND: The beneficial impact of the traditional Mediterranean diet pattern
+on adiposity is still under debate, and this has never been assessed in a
+developing Mediterranean country.
+OBJECTIVES: To assess the relationships between adherence to a traditional
+Mediterranean diet and adiposity indexes, that is, body mass index (BMI) and
+waist circumference (WC), in a sample from rural Lebanon.
+DESIGN: A sample of 798 adults, aged 40-60 years, was selected in continental
+rural areas of Lebanon for a cross-sectional study. The questionnaire included
+socio-demographic, anthropometric and dietary sections. The daily consumption
+frequencies of selected food groups, categorized as positive or negative
+components, were calculated based on a food frequency questionnaire. Adherence to
+the Mediterranean diet was assessed using six a priori scores; including the
+widely used Mediterranean diet score (MDS). Associations between diet scores and 
+BMI and WC were assessed.
+RESULTS: Overall, the diet of the study sample only partially matched the
+traditional Mediterranean diet. A total of 17.0% of men and 33.7% women were
+obese. The MDS was negatively associated (P<0.05) with WC, but not BMI, in men
+and women. The constructed composite Mediterranean score combining positive
+components of the diet (whole cereals, vegetables, legumes and fruit, olive oil
+and fish) and negative components adapted to this sample (refined cereals and
+pastries, and liquid sweets) was consistently and negatively associated with both
+BMI and WC for men and women in multivariate models. A 2-point increase in that
+score was associated with a decrease in BMI of 0.51 and 0.78 kg m(-2) and a
+decrease in WC of 2.77 and 4.76 cm in men and women, respectively.
+CONCLUSION: The results demonstrate that a Mediterranean diet is negatively
+associated with obesity and visceral adiposity in a rural population of a
+developing Mediterranean country.
+
+DOI: 10.1038/ijo.2010.130 
+PMID: 20603626  [Indexed for MEDLINE]
+

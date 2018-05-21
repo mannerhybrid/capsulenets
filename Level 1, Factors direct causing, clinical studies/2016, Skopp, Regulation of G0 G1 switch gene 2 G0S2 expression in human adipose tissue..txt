@@ -1,0 +1,35 @@
+
+1. Arch Physiol Biochem. 2016;122(2):47-53. doi: 10.3109/13813455.2015.1122066. Epub
+2016 Jan 27.
+
+Regulation of G0/G1 switch gene 2 (G0S2) expression in human adipose tissue.
+
+Skopp A(1), May M(1), Janke J(2), Kielstein H(3), Wunder R(4), Flade-Kuthe R(4), 
+Kuthe A(4), Jordan J(1), Engeli S(1).
+
+Author information: 
+(1)a Institute of Clinical Pharmacology, Hannover Medical School , Hannover ,
+Germany .
+(2)b Max-Delbrück Center for Molecular Medicine , Berlin , Germany .
+(3)c Department of Anatomy and Cell Biology , Martin Luther University
+Halle-Wittenberg , Halle (Saale) , Germany , and.
+(4)d Surgical Department , Clementinenhaus , Hannover , Germany.
+
+The G0/G1 switch gene 2 (G0S2) protein attenuated adipose triglyceride lipase
+(ATGL) activity and decreased lipolysis in rodent and human adipocytes. We
+hypothesized that G0S2 mRNA expression in human adipose tissue is influenced by
+depot, adipocyte size, body weight and caloric intake. Adipose tissue samples
+were obtained during abdominal surgery and by needle biopsy before and 3 h after 
+an extended glucose load in lean subjects. G0S2 mRNA was 7× higher expressed in
+mature human adipocytes compared to the stromavascular fraction. Cell size
+inversely correlated with G0S2 mRNA expression in both, subcutaneous and omental 
+adipose depots. G0S2 mRNA expression was 75% higher in subcutaneous compared to
+omental adipose tissue. Obesity was associated with lower G0S2 mRNA expression in
+subcutaneous adipose tissue. Acute glucose ingestion after an overnight fast did 
+not significantly increase G0S2 expression in subcutaneous adipose tissue. In
+conclusion, differences in G0S2 expression may explain depot-specific and
+obesity-associated differences in lipolysis on the molecular level.
+
+DOI: 10.3109/13813455.2015.1122066 
+PMID: 26707160  [Indexed for MEDLINE]
+

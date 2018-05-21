@@ -1,0 +1,43 @@
+
+1. Obesity (Silver Spring). 2014 Apr;22(4):1165-71. doi: 10.1002/oby.20643. Epub
+2013 Dec 5.
+
+Associations of maternal pre-pregnancy and gestational body size with offspring
+longitudinal change in BMI.
+
+Lawrence GM(1), Shulman S, Friedlander Y, Sitlani CM, Burger A, Savitsky B,
+Granot-Hershkovitz E, Lumley T, Kwok PY, Hesselson S, Enquobahrie D, Wander PL,
+Manor O, Siscovick DS, Hochner H.
+
+Author information: 
+(1)Braun School of Public Health, The Hebrew University-Hadassah Medical Center, 
+Jerusalem, Israel.
+
+OBJECTIVES: Studies demonstrate associations between changes in obesity-related
+phenotypes and cardiovascular risk. Although maternal pre-pregnancy BMI (mppBMI) 
+and gestational weight gain (GWG) may be associated with adult offspring
+adiposity, no study has examined associations with obesity changes. Associations 
+of mppBMI and GWG with longitudinal change in offspring's BMI (ΔBMI) were
+examined, and whether associations are explained by offspring genetics was
+assessed.
+METHODS: A birth cohort of 1400 adults, with data at birth, age 17 and 32 years
+was used. After genotyping offspring, genetic scores, predictive of exposures and
+outcome were created, and linear regression models with and without scores were
+fit to examine the associations of mppBMI and GWG with ΔBMI.
+RESULTS: A one SD change in mppBMI and GWG was associated with a 0.83 and a 0.75 
+kg/m² increase in ΔBMI, respectively. The association between mppBMI and
+offspring ΔBMI was slightly attenuated (12%) with the addition of genetic scores.
+In the GWG model, a significant substantial 28.2% decrease in the coefficient was
+observed.
+CONCLUSIONS: This study points to an association between maternal excess weight
+in pregnancy and offspring BMI change from adolescence to adulthood. Genetic
+factors may account, in part, for GWG/ΔBMI association. These findings broaden
+observations that maternal obesity-related phenotypes have long-term consequences
+for offspring health.
+
+Copyright © 2013 The Obesity Society.
+
+DOI: 10.1002/oby.20643 
+PMCID: PMC3968220
+PMID: 24124160  [Indexed for MEDLINE]
+
