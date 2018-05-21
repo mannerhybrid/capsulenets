@@ -1,0 +1,41 @@
+
+1. Obesity (Silver Spring). 2009 Sep;17(9):1736-43. doi: 10.1038/oby.2009.184. Epub 
+2009 Jun 11.
+
+Enhanced weight loss with pramlintide/metreleptin: an integrated neurohormonal
+approach to obesity pharmacotherapy.
+
+Ravussin E(1), Smith SR, Mitchell JA, Shringarpure R, Shan K, Maier H, Koda JE,
+Weyer C.
+
+Author information: 
+(1)Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA.
+
+The neurohormonal control of body weight involves a complex interplay between
+long-term adiposity signals (e.g., leptin), and short-term satiation signals
+(e.g., amylin). In diet-induced obese (DIO) rodents, amylin/leptin combination
+treatment led to marked, synergistic, fat-specific weight loss. To evaluate the
+weight-lowering effect of combined amylin/leptin agonism (with
+pramlintide/metreleptin) in human obesity, a 24-week, randomized, double-blind,
+active-drug-controlled, proof-of-concept study was conducted in obese or
+overweight subjects (N = 177; 63% female; 39 +/- 8 years; BMI 32.0 +/- 2.1
+kg/m(2); 93.3 +/- 13.2 kg; mean +/- s.d.). After a 4-week lead-in period with
+pramlintide (180 microg b.i.d. for 2 weeks, 360 microg b.i.d. thereafter) and
+diet (40% calorie deficit), subjects achieving 2-8% weight loss were randomized
+1:2:2 to 20 weeks of treatment with metreleptin (5 mg b.i.d.), pramlintide (360
+microg b.i.d.), or pramlintide/metreleptin (360 microg/5 mg b.i.d.). Combination 
+treatment with pramlintide/metreleptin led to significantly greater weight loss
+from enrollment to week 20 (-12.7 +/- 0.9%; least squares mean +/- s.e.) than
+treatment with pramlintide (-8.4 +/- 0.9%; P < 0.001) or metreleptin (-8.2 +/-
+1.3%; P < 0.01) alone (evaluable, N = 93). The greater reduction in body weight
+was significant as early as week 4, and weight loss continued throughout the
+study, without evidence of a plateau. The most common adverse events with
+pramlintide/metreleptin were injection site events and nausea, which were mostly 
+mild to moderate and decreased over time. These results support further
+development of pramlintide/metreleptin as a novel, integrated neurohormonal
+approach to obesity pharmacotherapy.
+
+DOI: 10.1038/oby.2009.184 
+PMCID: PMC2754219
+PMID: 19521351  [Indexed for MEDLINE]
+

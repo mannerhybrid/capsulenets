@@ -1,0 +1,41 @@
+
+1. Obesity (Silver Spring). 2014 Apr;22(4):984-8. doi: 10.1002/oby.20647. Epub 2013 
+Dec 5.
+
+Whole exome sequencing identifies variation in CYB5A and RNF10 associated with
+adiposity and type 2 diabetes.
+
+Huang K(1), Nair AK, Muller YL, Piaggi P, Bian L, Del Rosario M, Knowler WC,
+Kobes S, Hanson RL, Bogardus C, Baier LJ.
+
+Author information: 
+(1)Phoenix Epidemiology and Clinical Research Branch, National Institute of
+Diabetes and Digestive and Kidney Diseases, National Institutes of Health,
+Arizona, USA.
+
+OBJECTIVE: Few coding variants in genes associated with type 2 diabetes (T2D)
+have been identified, and the underlying physiologic mechanisms whereby
+susceptibility genes influence T2D risk are often unknown. The objective of this 
+study was to identify coding variation that increases risk for T2D via an effect 
+on a pre-diabetic trait.
+METHODS: Whole exome sequencing was done in 177 Pima Indians. Selected variants
+(N = 345) were genotyped in 555 subjects characterized for body fatness, glucose 
+disposal rates during a clamp, acute insulin response to glucose, and 2-h plasma 
+glucose concentrations during an OGTT, and were also genotyped in up to 5,880
+subjects with longitudinal measures of BMI. Variants associated with quantitative
+traits were assessed for association with T2D in 7,667 subjects.
+RESULTS: rs7238987 in CYB5A associated with body fatness (P = 7.0 × 10(-6) ).
+This SNP and a novel SNP in RNF10 also associated with maximum recorded BMI (P = 
+6.2 × 10(-7) and P = 7.2 × 10(-4) ) and maximum childhood BMI z-score (P = 5.9 × 
+10(-4) and P = 8.5 × 10(-7) ). The BMI increasing alleles increased the risk for 
+T2D (P = 0.01; OR = 1.13 [1.03-1.24] and 9.5 × 10(-3) ; OR = 1.49 [1.10-2.02]).
+CONCLUSIONS: CYB5A, which has a role in stearyl-CoA-desaturase activity, and
+RNF10, with an unknown role in weight regulating pathways, associated with
+adiposity and nominally increased the risk for T2D in American Indians.
+
+Copyright © 2013 The Obesity Society.
+
+DOI: 10.1002/oby.20647 
+PMCID: PMC3968243
+PMID: 24151200  [Indexed for MEDLINE]
+

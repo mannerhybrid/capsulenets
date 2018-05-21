@@ -1,0 +1,36 @@
+
+1. Bone. 2013 Oct;56(2):255-65. doi: 10.1016/j.bone.2013.06.016. Epub 2013 Jun 22.
+
+Determinants of bone marrow adiposity: the modulation of peroxisome
+proliferator-activated receptor-γ2 activity as a central mechanism.
+
+Sadie-Van Gijsen H(1), Hough FS, Ferris WF.
+
+Author information: 
+(1)Division of Endocrinology, Department of Medicine, Faculty of Medicine and
+Health Sciences, University of Stellenbosch, Francie van Zijl Drive, Tygerberg
+7505, South Africa. hsadie@sun.ac.za
+
+Although the presence of adipocytes in the bone marrow is a normal physiological 
+phenomenon, the role of these cells in bone homeostasis and during pathological
+states has not yet been fully delineated. As osteoblasts and adipocytes originate
+from a common progenitor, with an inverse relationship existing between
+osteoblastogenesis and adipogenesis, bone marrow adiposity often negatively
+correlates with osteoblast number and bone mineral density. Bone adiposity can be
+affected by several physiological and pathophysiological factors, with abnormal, 
+elevated marrow fat resulting in a pathological state. This review focuses on the
+regulation of bone adiposity by physiological factors, including aging,
+mechanical loading and growth factor expression, as well as the
+pathophysiological factors, including diseases such as anorexia nervosa and
+dyslipidemia, and pharmacological agents such as thiazolidinediones and statins. 
+Although these factors regulate bone marrow adiposity via a plethora of different
+intracellular signaling pathways, these diverse pathways often converge on the
+modulation of the expression and/or activity of the pro-adipogenic transcription 
+factor peroxisome proliferator-activated receptor (PPAR)-γ2, suggesting that any 
+factor that affects PPAR-γ2 may have an impact on the fat content of bone.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bone.2013.06.016 
+PMID: 23800517  [Indexed for MEDLINE]
+

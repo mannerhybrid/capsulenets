@@ -1,0 +1,43 @@
+
+1. Arch Biochem Biophys. 2015 Apr 15;572:112-125. doi: 10.1016/j.abb.2015.02.022.
+Epub 2015 Feb 23.
+
+Carotenoids and their conversion products in the control of adipocyte function,
+adiposity and obesity.
+
+Luisa Bonet M(1), Canas JA(2), Ribot J(3), Palou A(3).
+
+Author information: 
+(1)Laboratory of Molecular Biology, Nutrition and Biotechnology-Nutrigenomics,
+Universitat de les Illes Balears, Palma de Mallorca, and CIBER Fisiopatología de 
+la Obesidad y Nutrición (CIBERobn), Spain. Electronic address: luisabonet@uib.es.
+(2)Metabolism and Diabetes, Nemours Children's Clinic, Jacksonville, FL 32207,
+United States.
+(3)Laboratory of Molecular Biology, Nutrition and Biotechnology-Nutrigenomics,
+Universitat de les Illes Balears, Palma de Mallorca, and CIBER Fisiopatología de 
+la Obesidad y Nutrición (CIBERobn), Spain.
+
+A novel perspective of the function of carotenoids and carotenoid-derived
+products - including, but not restricted to, the retinoids - is emerging in
+recent years which connects these compounds to the control of adipocyte biology
+and body fat accumulation, with implications for the management of obesity,
+diabetes and cardiovascular disease. Cell and animal studies indicate that
+carotenoids and carotenoids derivatives can reduce adiposity and impact key
+aspects of adipose tissue biology including adipocyte differentiation,
+hypertrophy, capacity for fatty acid oxidation and thermogenesis (including
+browning of white adipose tissue) and secretory function. Epidemiological studies
+in humans associate higher dietary intakes and serum levels of carotenoids with
+decreased adiposity. Specifically designed human intervention studies, though
+still sparse, indicate a beneficial effect of carotenoid supplementation in the
+accrual of abdominal adiposity. The objective of this review is to summarize
+recent findings in this area, place them in physiological contexts, and provide
+likely regulatory schemes whenever possible. The focus will be on the effects of 
+carotenoids as nutritional regulators of adipose tissue biology and both animal
+and human studies, which support a role of carotenoids and retinoids in the
+prevention of abdominal adiposity.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.abb.2015.02.022 
+PMID: 25721497  [Indexed for MEDLINE]
+

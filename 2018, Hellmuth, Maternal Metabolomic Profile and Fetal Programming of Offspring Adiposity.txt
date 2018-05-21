@@ -1,0 +1,51 @@
+
+1. Mol Nutr Food Res. 2018 Apr 30:e1700889. doi: 10.1002/mnfr.201700889. [Epub ahead
+of print]
+
+Maternal Metabolomic Profile and Fetal Programming of Offspring Adiposity:
+Identification of Potentially Protective Lipid Metabolites.
+
+Hellmuth C(1), Lindsay KL(2)(3), Uhl O(1), Buss C(2)(4)(3), Wadhwa PD(2)(5)(3),
+Koletzko B(1), Entringer S(4)(3).
+
+Author information: 
+(1)Ludwig-Maximilian-Universität München, Division of Metabolic and Nutritional
+Medicine, Dr. von Hauner Children's Hospital, Univ. of Munich Medical Center,
+80337, München, Germany.
+(2)Departments of Pediatrics, University of California, Irvine, California,
+92697, U.S.A.
+(3)UC Irvine Development, Health and Disease Research Program, University of
+California, Irvine, California, 92697, U.S.A.
+(4)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität
+Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health (BIH),
+Institute of Medical Psychology.
+(5)Departments of Psychiatry & Human Behavior, and Obstetrics & Gynecology,
+University of California, Irvine, California, 92697, U.S.A.
+
+SCOPE: The fetal programming paradigm posits that the origins of obesity can be
+traced, in part, to the intrauterine period of life. However, the mechanisms
+underlying fetal programming are not well understood, and few studies have
+measured offspring adiposity in the neonatal period. The aim of this study was to
+identify maternal metabolites, and their determinants, that are associated with
+neonatal adiposity.
+METHODS AND RESULTS: We applied a targeted metabolomics approach to analyze
+plasma samples collected across gestation from a well-characterized cohort of 253
+pregnant women participating in a prospective study at the University of
+California, Irvine. Whole-body Dual X-Ray Absorptiometry (DXA) imaging of body
+composition was obtained in N = 121 newborns. Statistical models were adjusted
+for potential confounders and multiple testing. We identified six alkyl-linked
+phosphatidylcholines (PCae), containing fatty acid 20:4, that were significantly 
+and negatively associated with neonatal body fat percentage. Factors indicating
+higher socioeconomic status, non-Hispanic ethnicity and higher non-esterified
+fatty acid percentages were positively associated with these PCae.
+CONCLUSIONS: The polyunsaturated fatty acid 20:4 contained in PCae may exert a
+beneficial effect with respect to future propensity for obesity development. Pre-
+and early-pregnancy factors are determinants of these PCae, highlighting the
+importance of addressing pre-conceptional conditions for fetal programming of
+newborn adiposity. This article is protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/mnfr.201700889 
+PMID: 29714050 
+

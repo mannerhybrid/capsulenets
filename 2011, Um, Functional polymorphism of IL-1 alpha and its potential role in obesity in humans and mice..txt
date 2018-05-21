@@ -1,0 +1,38 @@
+
+1. PLoS One. 2011;6(12):e29524. doi: 10.1371/journal.pone.0029524. Epub 2011 Dec 27.
+
+Functional polymorphism of IL-1 alpha and its potential role in obesity in humans
+and mice.
+
+Um JY(1), Rim HK, Kim SJ, Kim HL, Hong SH.
+
+Author information: 
+(1)Department of Pharmacology, College of Oriental Medicine, Institute of
+Oriental Medicine, Kyung Hee University, Dongdaemun-gu, Seoul, Republic of Korea.
+jyum@khu.ac.kr
+
+Proinflammatory cytokines secreted from adipose tissue contribute to the
+morbidity associated with obesity. IL-1α is one of the proinflammatory cytokines;
+however, it has not been clarified whether IL-1α may also cause obesity. In this 
+study, we investigated whether polymorphisms in IL-1α contribute to human
+obesity. A total of 260 obese subjects were genotyped for IL-1α C-889T
+(rs1800587) and IL-1α G+4845T (rs17561). Analyses of genotype distributions
+revealed that both IL-1α polymorphisms C-889T (rs1800587) and G+4845T (rs17561)
+were associated with an increase in body mass index in obese healthy women. In
+addition, the effect of rs1800587 on the transcriptional activity of IL-1α was
+explored in pre-adipocyte 3T3-L1 cells. Significant difference was found between 
+the rs1800587 polymorphism in the regulatory region of the IL-1α gene and
+transcriptional activity. We extended these observations in vivo to a high-fat
+diet-induced obese mouse model and in vitro to pre-adipocyte 3T3-L1 cells. IL-1α 
+levels were dramatically augmented in obese mice, and triglyceride was increased 
+12 hours after IL-1α injection. Taken together, IL-1α treatment regulated the
+differentiation of preadipocytes. IL-1α C-889T (rs1800587) is a functional
+polymorphism of IL-1α associated with obesity. IL-1α may have a critical function
+in the development of obesity.
+
+© 2011 Um et al.
+
+DOI: 10.1371/journal.pone.0029524 
+PMCID: PMC3246492
+PMID: 22216303  [Indexed for MEDLINE]
+

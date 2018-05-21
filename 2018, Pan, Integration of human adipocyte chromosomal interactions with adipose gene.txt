@@ -1,0 +1,54 @@
+
+1. Nat Commun. 2018 Apr 17;9(1):1512. doi: 10.1038/s41467-018-03554-9.
+
+Integration of human adipocyte chromosomal interactions with adipose gene
+expression prioritizes obesity-related genes from GWAS.
+
+Pan DZ(1)(2), Garske KM(1), Alvarez M(1), Bhagat YV(1), Boocock J(1), Nikkola
+E(1), Miao Z(1)(2), Raulerson CK(3), Cantor RM(1), Civelek M(4), Glastonbury
+CA(5), Small KS(6), Boehnke M(7), Lusis AJ(1), Sinsheimer JS(1)(8), Mohlke KL(3),
+Laakso M(9), Pajukanta P(1)(2)(10), Ko A(11)(12).
+
+Author information: 
+(1)Department of Human Genetics, David Geffen School of Medicine at UCLA, Los
+Angeles, CA, 90095, USA.
+(2)Bioinformatics Interdepartmental Program, UCLA, Los Angeles, CA, 90095, USA.
+(3)Department of Genetics, University of North Carolina, Chapel Hill, NC, 27599, 
+USA.
+(4)Department of Biomedical Engineering, University of Virginia, Charlottesville,
+VA, 22904, USA.
+(5)Big Data Institute, University of Oxford, Oxford, OX3 7LF, UK.
+(6)Department of Twin Research and Genetic Epidemiology, King's College, London, 
+UK.
+(7)Department of Biostatistics, University of Michigan, Ann Arbor, MI, 48109,
+USA.
+(8)Department of Biomathematics, David Geffen School of Medicine at UCLA, Los
+Angeles, CA, 90095, USA.
+(9)Institute of Clinical Medicine, Internal Medicine, University of Eastern
+Finland and Kuopio University Hospital, FI-70210, Kuopio, Finland.
+(10)Molecular Biology Institute at UCLA, Los Angeles, CA, 90095, USA.
+(11)Department of Human Genetics, David Geffen School of Medicine at UCLA, Los
+Angeles, CA, 90095, USA. a5ko@ucla.edu.
+(12)Molecular Biology Institute at UCLA, Los Angeles, CA, 90095, USA.
+a5ko@ucla.edu.
+
+Increased adiposity is a hallmark of obesity and overweight, which affect 2.2
+billion people world-wide. Understanding the genetic and molecular mechanisms
+that underlie obesity-related phenotypes can help to improve treatment options
+and drug development. Here we perform promoter Capture Hi-C in human adipocytes
+to investigate interactions between gene promoters and distal elements as a
+transcription-regulating mechanism contributing to these phenotypes. We find that
+promoter-interacting elements in human adipocytes are enriched for
+adipose-related transcription factor motifs, such as PPARG and CEBPB, and
+contribute to heritability of cis-regulated gene expression. We further intersect
+these data with published genome-wide association studies for BMI and BMI-related
+metabolic traits to identify the genes that are under genetic cis regulation in
+human adipocytes via chromosomal interactions. This integrative genomics approach
+identifies four cis-eQTL-eGene relationships associated with BMI or
+obesity-related traits, including rs4776984 and MAP2K5, which we further confirm 
+by EMSA, and highlights 38 additional candidate genes.
+
+DOI: 10.1038/s41467-018-03554-9 
+PMCID: PMC5904163
+PMID: 29666371 
+

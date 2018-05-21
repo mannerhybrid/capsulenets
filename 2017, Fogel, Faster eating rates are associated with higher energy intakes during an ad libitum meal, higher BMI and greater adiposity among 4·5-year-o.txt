@@ -1,0 +1,57 @@
+
+1. Br J Nutr. 2017 Apr;117(7):1042-1051. doi: 10.1017/S0007114517000848. Epub 2017
+May 2.
+
+Faster eating rates are associated with higher energy intakes during an ad
+libitum meal, higher BMI and greater adiposity among 4·5-year-old children:
+results from the Growing Up in Singapore Towards Healthy Outcomes (GUSTO) cohort.
+
+Fogel A(1), Goh AT(1), Fries LR(2), Sadananthan SA(3), Velan SS(3), Michael N(3),
+Tint MT(4), Fortier MV(5), Chan MJ(3), Toh JY(3), Chong YS(3), Tan KH(6), Yap
+F(6), Shek LP(3), Meaney MJ(1), Broekman BFP(3), Lee YS(3), Godfrey KM(7), Chong 
+MFF(1), Forde CG(1).
+
+Author information: 
+(1)1Clinical Nutrition Research Centre,Singapore Institute for Clinical
+Sciences,Agency for Science,Technology and Research (A*STAR),National University 
+Health System,Singapore117599.
+(2)2Nestle Research Center,Lausanne,Switzerland.
+(3)3Agency for Science,Technology and Research (A*STAR),Singapore Institute for
+Clinical Sciences,Singapore117549.
+(4)5Department of Obstetrics and Gynaecology,Yong Loo Lin School of
+Medicine,National University of Singapore,Singapore119228.
+(5)6Department of Diagnostic and Interventional Imaging,KK Women's and Children's
+Hospital,Singapore229899.
+(6)7KK Women's and Children's Hospital,Singapore229899.
+(7)11Medical Research Council Lifecourse Epidemiology Unit,National Institute for
+Health Research,Southampton Biomedical Research Centre,University of
+Southampton,University Hospital Southampton NHS Foundation Trust,Southampton SO16
+6YD,UK.
+
+Faster eating rates are associated with increased energy intake, but little is
+known about the relationship between children's eating rate, food intake and
+adiposity. We examined whether children who eat faster consume more energy and
+whether this is associated with higher weight status and adiposity. We
+hypothesised that eating rate mediates the relationship between child weight and 
+ad libitum energy intake. Children (n 386) from the Growing Up in Singapore
+Towards Healthy Outcomes cohort participated in a video-recorded ad libitum lunch
+at 4·5 years to measure acute energy intake. Videos were coded for three
+eating-behaviours (bites, chews and swallows) to derive a measure of eating rate 
+(g/min). BMI and anthropometric indices of adiposity were measured. A subset of
+children underwent MRI scanning (n 153) to measure abdominal subcutaneous and
+visceral adiposity. Children above/below the median eating rate were categorised 
+as slower and faster eaters, and compared across body composition measures. There
+was a strong positive relationship between eating rate and energy intake (r 0·61,
+P<0·001) and a positive linear relationship between eating rate and children's
+BMI status. Faster eaters consumed 75 % more energy content than slower eating
+children (Δ548 kJ (Δ131 kcal); 95 % CI 107·6, 154·4, P<0·001), and had higher
+whole-body (P<0·05) and subcutaneous abdominal adiposity (Δ118·3 cc; 95 % CI
+24·0, 212·7, P=0·014). Mediation analysis showed that eating rate mediates the
+link between child weight and energy intake during a meal (b 13·59; 95 % CI 7·48,
+21·83). Children who ate faster had higher energy intake, and this was associated
+with increased BMI z-score and adiposity.
+
+DOI: 10.1017/S0007114517000848 
+PMCID: PMC5472197
+PMID: 28462734  [Indexed for MEDLINE]
+

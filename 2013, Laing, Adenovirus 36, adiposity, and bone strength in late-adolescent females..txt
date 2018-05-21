@@ -1,0 +1,39 @@
+
+1. J Bone Miner Res. 2013 Mar;28(3):489-96. doi: 10.1002/jbmr.1776.
+
+Adenovirus 36, adiposity, and bone strength in late-adolescent females.
+
+Laing EM(1), Tripp RA, Pollock NK, Baile CA, Della-Fera MA, Rayalam S, Tompkins
+SM, Keys DA, Lewis RD.
+
+Author information: 
+(1)Department of Foods and Nutrition, The University of Georgia, Athens, GA, USA.
+
+Adenovirus 36 (Ad36) is the only adenovirus to date that has been linked with
+obesity in humans. Our previous studies in late-adolescent females suggest that
+excess weight in the form of fat mass is associated with lower cortical bone
+strength. The purpose of this study was to assess the relationship between
+Ad36-specific antibodies, adiposity, and bone strength in our sample of
+late-adolescent females. A cross-sectional study of 115 females aged 18 to 19
+years was performed. Participants were classified according to adiposity by
+dual-energy X-ray absorptiometry (body fat percentage as normal-fat [ < 32% body 
+fat; n = 93] or high-fat [ ≥ 32% body fat; n = 22]), and according to the
+presence of Ad36-specific neutralizing antibodies. Peripheral quantitative
+computed tomography measured bone parameters at the 4% (trabecular bone) and 20% 
+(cortical bone) site, and muscle cross-sectional area (MCSA) at the 66% site,
+from the distal metaphyses of the radius and the tibia. Bone strength was
+determined from volumetric bone mineral density and bone geometry to calculate
+bone strength index (BSI; trabecular site) and polar strength-strain index (SSI; 
+cortical site). After adjustment for MCSA and limb length, radial SSI was lower
+in Ad36+  versus Ad36- subjects from the high-fat group (p < 0.03), but not the
+normal-fat group. No significant differences were observed between groups in
+tibial SSI or BSI. These data support an association of adiposity and cortical
+bone strength at the radius with the presence of neutralizing antibodies to Ad36 
+in late-adolescent females.
+
+Copyright © 2013 American Society for Bone and Mineral Research.
+
+DOI: 10.1002/jbmr.1776 
+PMCID: PMC5705225
+PMID: 23296755  [Indexed for MEDLINE]
+

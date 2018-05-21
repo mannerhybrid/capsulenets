@@ -1,0 +1,50 @@
+
+1. Pediatr Obes. 2013 Aug;8(4):259-70. doi: 10.1111/j.2047-6310.2013.00170.x. Epub
+2013 Apr 29.
+
+Association between sweet drink intake and adiposity in Danish children
+participating in a long-term intervention study.
+
+Jensen BW(1), Nielsen BM, Husby I, Bugge A, El-Naaman B, Andersen LB, Trolle E,
+Heitmann BL.
+
+Author information: 
+(1)Research Unit for Dietary Studies, Institute of Preventive Medicine,
+Bispebjerg and Frederiksberg Hospitals, Copenhagen University Hospital,
+Frederiksberg, Denmark.
+
+BACKGROUND: In some previous studies direct associations between intake of soft
+drinks, sugar-sweetened beverages and adiposity have been reported. The majority 
+of these studies were, however, conducted in the USA and it is uncertain if the
+results are applicable to non-US countries.
+OBJECTIVE: To assess the association between sweet drink intake at age 6 and 9
+years and the subsequent 3- to 7-year changes in body mass index (BMI) and sum of
+four skin-folds (Σ4SF).
+METHODS: Information on sweet drink intake (7 days food record) and physical
+activity (accelerometer) was obtained at age 6 years (n = 366) [Correction made
+here after initial online publication.] and 9 years (n = 269). Weight, height and
+Σ4SF were measured at age 6, 9 and 13 years. Additional information on
+socio-economic status, maternal BMI and pubertal status was obtained.
+RESULTS: No associations were observed between sweet drink intake at age 6 years 
+and change in BMI or logΣ4SF from age 6 to 9 years or 6 to 13 years. Also, no
+associations were observed between change in sweet drink intake from age 6 to 9
+years and subsequent change in BMI or logΣ4SF from age 9 to 13 years. A weak
+direct association was observed between sweet drink intake at age 9 years and
+change in logΣ4SF from age 9 to 13 years (per 100 g ∼ 3.38 fl oz) (β: 0.014, 95% 
+confidence interval [CI]: -0.001 to 0.029, P = 0.06), while no association was
+seen for BMI. In supplementary analyses a similar association was observed for
+soft drinks (β: 0.087, 95% CI: 0.048 to 0.126, P = 0.001) but only in the
+intervention group.
+CONCLUSION: We observed associations between intake of sweet drinks and soft
+drinks and change in skin-fold thickness in a group of Danish children. However, 
+as the associations did not remain significant when multiple testing was
+considered or was only significant among children from the intervention group,
+the results do not confirm or refute the direct association reported in previous 
+studies.
+
+© 2013 The Authors. Pediatric Obesity © 2013 International Association for the
+Study of Obesity.
+
+DOI: 10.1111/j.2047-6310.2013.00170.x 
+PMID: 23630030  [Indexed for MEDLINE]
+

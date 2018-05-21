@@ -1,0 +1,58 @@
+
+1. PLoS One. 2014 May 12;9(5):e96805. doi: 10.1371/journal.pone.0096805. eCollection
+2014.
+
+Genetic association study of adiposity and melanocortin-4 receptor (MC4R) common 
+variants: replication and functional characterization of non-coding regions.
+
+Evans DS(1), Calton MA(2), Kim MJ(3), Kwok PY(4), Miljkovic I(5), Harris T(6),
+Koster A(6), Liu Y(7), Tranah GJ(1), Ahituv N(3), Hsueh WC(2), Vaisse C(2).
+
+Author information: 
+(1)California Pacific Medical Center Research Institute, San Francisco,
+California, United States of America.
+(2)Diabetes Center and Department of Medicine, University of California, San
+Francisco, California, United States of America.
+(3)Department of Bioengineering and Therapeutic Sciences and Institute for Human 
+Genetics, University of California, San Francisco, California, United States of
+America.
+(4)Cardiovascular Research Institute, Institute for Human Genetics, and
+Department of Dermatology, University of California, San Francisco, California,
+United States of America.
+(5)Department of Epidemiology, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(6)National Institute on Aging, Bethesda, Maryland, United States of America.
+(7)Department of Epidemiology and Prevention, Division of Public Health Sciences,
+Wake Forest University, Winston-Salem, North Carolina, United States of America.
+
+Common genetic variants 3' of MC4R within two large linkage disequilibrium (LD)
+blocks spanning 288 kb have been associated with common and rare forms of
+obesity. This large association region has not been refined and the relevant DNA 
+segments within the association region have not been identified. In this study,
+we investigated whether common variants in the MC4R gene region were associated
+with adiposity-related traits in a biracial population-based study. Single
+nucleotide polymorphisms (SNPs) in the MC4R region were genotyped with a custom
+array and a genome-wide array and associations between SNPs and five
+adiposity-related traits were determined using race-stratified linear regression.
+Previously reported associations between lower BMI and the minor alleles of
+rs2229616/Val103Ile and rs52820871/Ile251Leu were replicated in white female
+participants. Among white participants, rs11152221 in a proximal 3' LD block
+(closer to MC4R) was significantly associated with multiple adiposity traits, but
+SNPs in a distal 3' LD block (farther from MC4R) were not. In a case-control
+study of severe obesity, rs11152221 was significantly associated. The association
+results directed our follow-up studies to the proximal LD block downstream of
+MC4R. By considering nucleotide conservation, the significance of association,
+and proximity to the MC4R gene, we identified a candidate MC4R regulatory region.
+This candidate region was sequenced in 20 individuals from a study of severe
+obesity in an attempt to identify additional variants, and the candidate region
+was tested for enhancer activity using in vivo enhancer assays in zebrafish and
+mice. Novel variants were not identified by sequencing and the candidate region
+did not drive reporter gene expression in zebrafish or mice. The identification
+of a putative insulator in this region could help to explain the challenges faced
+in this study and others to link SNPs associated with adiposity to altered MC4R
+expression.
+
+DOI: 10.1371/journal.pone.0096805 
+PMCID: PMC4018404
+PMID: 24820477  [Indexed for MEDLINE]
+

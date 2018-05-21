@@ -1,0 +1,30 @@
+
+1. Physiol Behav. 2013 Sep 10;121:56-60. doi: 10.1016/j.physbeh.2013.03.022. Epub
+2013 Apr 3.
+
+Dorsomedial hypothalamic NPY modulation of adiposity and thermogenesis.
+
+Bi S(1).
+
+Author information: 
+(1)Department of Psychiatry and Behavioral Science, Johns Hopkins University
+School of Medicine, Baltimore, MD, USA. Electronic address: sbi@jhmi.edu.
+
+In addition to controlling food intake, the dorsomedial hypothalamus (DMH) plays 
+an important role in thermoregulation. Within the DMH, a number of neuropeptides 
+and receptors have been found and their roles in controlling energy balance are
+being investigated. We recently found that the orexigenic neuropeptide Y (NPY) in
+the DMH has specific actions on body adiposity and thermogenesis using a
+viral-mediated manipulation of NPY in the DMH. Knockdown of NPY in the DMH
+promotes the development of brown adipocytes in white adipose tissue and
+increases brown adipocyte activity. DMH NPY knockdown also causes increased
+thermogenesis and energy expenditure. Finally, DMH NPY knockdown prevents
+high-fat diet-induced obesity and improves glucose homeostasis. This review
+focuses on the role of DMH NPY in modulating body adiposity and thermogenesis.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2013.03.022 
+PMCID: PMC3823632
+PMID: 23562863  [Indexed for MEDLINE]
+

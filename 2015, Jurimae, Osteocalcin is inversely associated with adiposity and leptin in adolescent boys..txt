@@ -1,0 +1,35 @@
+
+1. J Pediatr Endocrinol Metab. 2015 May;28(5-6):571-7. doi: 10.1515/jpem-2014-0432.
+
+Osteocalcin is inversely associated with adiposity and leptin in adolescent boys.
+
+Jürimäe J, Lätt E, Mäestu J, Saar M, Purge P, Maasalu K, Jürimäe T.
+
+BACKGROUND/AIMS: Recently, osteocalcin (OC), an osteoblast-derived hormone, has
+been found to correlate with adiposity, adipocytokines and insulin resistance in 
+adults, but few studies have investigated this in children. The aim of this study
+was to investigate these associations in adolescent boys, for whom it is a time
+of significant bone mineral accrual, taking into account possible confounders
+related to adipose and bone tissues.
+PARTICIPANTS/METHODS: Participants were 141 adolescent boys (mean age 13.9±0.7
+years), who were divided into tertiles according to OC levels. Across these
+groups, differences in total body fat mass (FM), body fat distribution,
+adiponectin, leptin and insulin resistance values were examined with relation to 
+age, pubertal stage, daily energy and calcium intakes, and physical activity.
+RESULTS: Mean body mass index (BMI), FM, body fat% and leptin differed
+significantly between subjects in the three OC tertiles after adjustment for age,
+pubertal stage, energy and calcium intakes, and physical activity. There were no 
+differences in fat free mass (FFM), bone mineral content, energy and calcium
+intakes, physical activity, adiponectin and insulin resistance values between
+study groups. For the entire cohort, mean serum OC was 130.2±45.2 ng/mL and was
+related to body mass, BMI, FM, body fat distribution and leptin. Circulating OC
+was not associated with FFM, daily energy and calcium intakes, physical activity,
+adiponectin or insulin resistance (insulin, glucose, homeostasis model
+assessment-insulin resistance) values.
+CONCLUSIONS: In male adolescents, OC is inversely related to body adiposity and
+leptin values, even after consideration of several factors that may affect bone
+and adipose tissues.
+
+DOI: 10.1515/jpem-2014-0432 
+PMID: 25741787  [Indexed for MEDLINE]
+

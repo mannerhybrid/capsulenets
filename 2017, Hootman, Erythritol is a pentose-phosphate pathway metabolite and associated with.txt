@@ -1,0 +1,53 @@
+
+1. Proc Natl Acad Sci U S A. 2017 May 23;114(21):E4233-E4240. doi:
+10.1073/pnas.1620079114. Epub 2017 May 8.
+
+Erythritol is a pentose-phosphate pathway metabolite and associated with
+adiposity gain in young adults.
+
+Hootman KC(1), Trezzi JP(2)(3), Kraemer L(2), Burwell LS(1), Dong X(2), Guertin
+KA(1), Jaeger C(2), Stover PJ(4), Hiller K(2), Cassano PA(4)(5).
+
+Author information: 
+(1)Division of Nutritional Sciences, Cornell University, Ithaca, NY 14853.
+(2)Luxembourg Centre for Systems Biomedicine, University of Luxembourg, L-4367
+Belvaux, Luxembourg.
+(3)Integrated BioBank of Luxembourg, L-1210 Luxembourg, Luxembourg.
+(4)Division of Nutritional Sciences, Cornell University, Ithaca, NY 14853;
+pjs13@cornell.edu pac6@cornell.edu.
+(5)Department of Health Policy and Research, Division of Epidemiology and
+Biostatistics, Weill Cornell Medical College, New York, NY 10065.
+
+Comment in
+    Nat Rev Endocrinol. 2017 Aug;13(8):443-444.
+
+Metabolomic markers associated with incident central adiposity gain were
+investigated in young adults. In a 9-mo prospective study of university freshmen 
+(n = 264). Blood samples and anthropometry measurements were collected in the
+first 3 d on campus and at the end of the year. Plasma from individuals was
+pooled by phenotype [incident central adiposity, stable adiposity, baseline
+hemoglobin A1c (HbA1c) > 5.05%, HbA1c < 4.92%] and assayed using GC-MS,
+chromatograms were analyzed using MetaboliteDetector software, and normalized
+metabolite levels were compared using Welch's t test. Assays were repeated using 
+freshly prepared pools, and statistically significant metabolites were quantified
+in a targeted GC-MS approach. Isotope tracer studies were performed to determine 
+if the potential marker was an endogenous human metabolite in men and in whole
+blood. Participants with incident central adiposity gain had statistically
+significantly higher blood erythritol [P < 0.001, false discovery rate (FDR) =
+0.0435], and the targeted assay revealed 15-fold [95% confidence interval (CI):
+13.27, 16.25] higher blood erythritol compared with participants with stable
+adiposity. Participants with baseline HbA1c > 5.05% had 21-fold (95% CI: 19.84,
+21.41) higher blood erythritol compared with participants with lower HbA1c (P <
+0.001, FDR = 0.00016). Erythritol was shown to be synthesized endogenously from
+glucose via the pentose-phosphate pathway (PPP) in stable isotope-assisted ex
+vivo blood incubation experiments and through in vivo conversion of erythritol to
+erythronate in stable isotope-assisted dried blood spot experiments. Therefore,
+endogenous production of erythritol from glucose may contribute to the
+association between erythritol and obesity observed in young adults.
+
+DOI: 10.1073/pnas.1620079114 
+PMCID: PMC5448202
+PMID: 28484010  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

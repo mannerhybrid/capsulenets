@@ -1,0 +1,92 @@
+
+1. BMC Med. 2017 Mar 7;15(1):50. doi: 10.1186/s12916-017-0800-1.
+
+Developmental pathways to adiposity begin before birth and are influenced by
+genotype, prenatal environment and epigenome.
+
+Lin X(1), Lim IY(1)(2), Wu Y(1), Teh AL(1), Chen L(1), Aris IM(1), Soh SE(1)(3), 
+Tint MT(2)(3), MacIsaac JL(4), Morin AM(4), Yap F(5), Tan KH(5), Saw SM(6)(7)(8),
+Kobor MS(4), Meaney MJ(1)(9), Godfrey KM(10), Chong YS(1)(2), Holbrook JD(1), Lee
+YS(1)(3)(11), Gluckman PD(1)(12), Karnani N(13)(14); GUSTO study group.
+
+Collaborators: Agarwal P, Biswas A, Bong CL, Broekman BF, Cai S, Chan JK, Chan
+YH, Chee CY, Chen H, Cheung YB, Chinnadurai A, Chng CK, Chong MF, Chong YS, Chong
+SC, Chua MC, Fok D, Fortier MV, Gluckman PD, Godfrey KM, Goh AE, Goh YT, Gooley
+JJ, Han WM, Hanson M, Henry CJ, Holbrook JD, Hsu CY, Karnani N, Kapur J, Kwek K, 
+Lau IY, Lee BW, Lee YS, Lek N, Lim SB, Magiati I, Daniel LM, Meaney M, Ngo C,
+Niduvaje K, Pang WW, Qiu A, Quah BL, Rajadurai VS, Rauff M, Rebello SA, Richmond 
+JL, Rifkin-Graboi A, Saw SM, Shek LP, Sheppard A, Shuter B, Singh L, Soh SE,
+Stunkel W, Su LL, Tan KH, Teoh OH, Tint MT, van Bever HP, van Dam RM, Wong IB,
+Wong PC, Yap F, Yeo GS.
+
+Author information: 
+(1)Singapore Institute for Clinical Sciences, A*STAR, 30 Medical Drive,
+Singapore, 117609, Singapore.
+(2)Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine,
+National University of Singapore, Singapore, 119228, Singapore.
+(3)Department of Pediatrics, Yong Loo Lin School of Medicine, National University
+of Singapore, Singapore, 119228, Singapore.
+(4)Centre for Molecular Medicine and Therapeutics, Child and Family Research
+Institute, Department of Medical Genetics, University of British Columbia,
+Vancouver, BC, V5Z 4H4, Canada.
+(5)KK Women's and Children's Hospital, Singapore, 229899, Singapore.
+(6)Saw Swee Hock School of Public Health, National University of Singapore,
+Singapore, 117597, Singapore.
+(7)Singapore Eye Research Institute, Singapore, 169856, Singapore.
+(8)Duke NUS Medical School, Singapore, 169857, Singapore.
+(9)Ludmer Centre for Neuroinformatics and Mental Health, Douglas University
+Mental Health Institute, McGill University, Montreal, Quebec, H4H 1R3, Canada.
+(10)MRC Lifecourse Epidemiology Unit and NIHR Southampton Biomedical Research
+Centre, University of Southampton and University Hospital Southampton NHS
+Foundation Trust, Southampton, SO16 6YD, UK.
+(11)Division of Paediatric Endocrinology and Diabetes, Khoo Teck Puat-National
+University Children's Medical Institute, National University Health System,
+Singapore, 119228, Singapore.
+(12)Centre for Human Evolution, Adaptation and Disease, Liggins Institute,
+University of Auckland, Auckland, 1142, New Zealand.
+(13)Singapore Institute for Clinical Sciences, A*STAR, 30 Medical Drive,
+Singapore, 117609, Singapore. neerja_karnani@sics.a-star.edu.sg.
+(14)Department of Biochemistry, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore, 119228, Singapore.
+neerja_karnani@sics.a-star.edu.sg.
+
+BACKGROUND: Obesity is an escalating health problem worldwide, and hence the
+causes underlying its development are of primary importance to public health.
+There is growing evidence that suboptimal intrauterine environment can perturb
+the metabolic programing of the growing fetus, thereby increasing the risk of
+developing obesity in later life. However, the link between early exposures in
+the womb, genetic susceptibility, and perturbed epigenome on metabolic health is 
+not well understood. In this study, we shed more light on this aspect by
+performing a comprehensive analysis on the effects of variation in prenatal
+environment, neonatal methylome, and genotype on birth weight and adiposity in
+early childhood.
+METHODS: In a prospective mother-offspring cohort (N = 987), we interrogated the 
+effects of 30 variables that influence the prenatal environment, umbilical cord
+DNA methylation, and genotype on offspring weight and adiposity, over the period 
+from birth to 48 months. This is an interim analysis on an ongoing cohort study.
+RESULTS: Eleven of 30 prenatal environments, including maternal adiposity,
+smoking, blood glucose and plasma unsaturated fatty acid levels, were associated 
+with birth weight. Polygenic risk scores derived from genetic association studies
+on adult adiposity were also associated with birth weight and child adiposity,
+indicating an overlap between the genetic pathways influencing metabolic health
+in early and later life. Neonatal methylation markers from seven gene loci (ANK3,
+CDKN2B, CACNA1G, IGDCC4, P4HA3, ZNF423 and MIRLET7BHG) were significantly
+associated with birth weight, with a subset of these in genes previously
+implicated in metabolic pathways in humans and in animal models. Methylation
+levels at three of seven birth weight-linked loci showed significant association 
+with prenatal environment, but none were affected by polygenic risk score. Six of
+these birth weight-linked loci continued to show a longitudinal association with 
+offspring size and/or adiposity in early childhood.
+CONCLUSIONS: This study provides further evidence that developmental pathways to 
+adiposity begin before birth and are influenced by environmental, genetic and
+epigenetic factors. These pathways can have a lasting effect on offspring size,
+adiposity and future metabolic outcomes, and offer new opportunities for risk
+stratification and prevention of obesity.
+CLINICAL TRIAL REGISTRATION: This birth cohort is a prospective observational
+study, designed to study the developmental origins of health and disease, and was
+retrospectively registered on 1 July 2010 under the identifier NCT01174875 .
+
+DOI: 10.1186/s12916-017-0800-1 
+PMCID: PMC5340003
+PMID: 28264723  [Indexed for MEDLINE]
+

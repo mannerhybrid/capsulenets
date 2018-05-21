@@ -1,0 +1,40 @@
+
+1. J Public Health Manag Pract. 2012 Sep-Oct;18(5):445-52.
+
+Micro- and macro-level correlates of adiposity in children.
+
+Yin Z(1), Moore JB, Johnson MH, Vernon MM, Grimstvedt M, Gutin B.
+
+Author information: 
+(1)Department of Health and Kinesiology, University of Texas at San Antonio, USA.
+
+CONTEXT: Recently, studies using a social ecological perspective have identified 
+important micro- and macro-level risk factors for excessive adiposity in youth.
+Although considerable research exists examining these relationships, few studies 
+have applied a socioecological approach to simultaneously examine both micro- and
+macro-level factors in young children while objectively assessing adiposity via
+dual-energy x-ray absorptiometry (DXA).
+OBJECTIVE: To examine race and sex differences in adiposity measured by DXA in a 
+large sample of young children and to identify both micro- and macro-level
+correlates of adiposity.
+DESIGN: Cross-sectional.
+SETTING AND PARTICIPANTS: Elementary school children (N = 495) from the
+southeastern United States participated. Anthropometrics, percentage body fat via
+DXA, and psychosocial variables via questionnaire were assessed in the Fall of
+2003. Community-level sociodemographic data and built-environment variables via
+geographic information system were collected in Spring 2009. Data analyses were
+completed in the Spring of 2010.
+RESULTS: Percentage body fat in white children was higher than in nonwhite
+children. Higher percentage body fat and poorer cardiovascular fitness were found
+in females compared with males. Percentage body fat was higher in children who
+had lower athletic competence and lived in neighborhoods with higher percentages 
+of minority residents.
+CONCLUSION: This study provides preliminary support for the social-ecological
+model to explain variance in adiposity in children. Developers of health
+promotion programs for children living in minority neighborhoods should consider 
+factors at multiple levels of the ecological model when designing and
+implementing programs.
+
+DOI: 10.1097/PHH.0b013e31821dce0d 
+PMID: 22836536  [Indexed for MEDLINE]
+

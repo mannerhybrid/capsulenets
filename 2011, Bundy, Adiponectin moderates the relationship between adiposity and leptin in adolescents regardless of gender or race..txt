@@ -1,0 +1,31 @@
+
+1. J Pediatr Endocrinol Metab. 2011;24(3-4):119-24.
+
+Adiponectin moderates the relationship between adiposity and leptin in
+adolescents regardless of gender or race.
+
+Bundy V(1), Johnson M, Gutin B, Zhu H, Stallmann-Jorgensen I, Dong Y.
+
+Author information: 
+(1)Department of Pediatrics, Georgia Prevention Institute, Medical College of
+Georgia, Augusta, GA 30912, USA.
+
+OBJECTIVES: To determine gender or race differences in associations between
+adiposity and leptin, and whether adiponectin moderates these relationships.
+METHODS: Subjects were 441 adolescents, 14-18 years old (44% black, 56% white;
+50% female, 50% male). Percent body fat (%BF) was measured with dual-energy X-ray
+absorptiometry. Leptin and adiponectin were measured using immunoassays.
+RESULTS: Among the four groups (white boys, white girls, black boys and black
+girls), white girls had the highest adiponectin (p = 0.0017) and black girls had 
+the highest leptin (p = 0.0164). Percent BF and leptin were positively correlated
+(p = 0.0164). The %BF-leptin relationship was stronger in boys than girls (p <
+0.0001). Those with lower adiponectin had a stronger %BF-leptin relationship than
+those with high adiponectin in the entire sample (p = 0.0220). Statistical models
+were adjusted for age, race, gender and the interaction between race and gender.
+CONCLUSION: Our data suggest a protective metabolic interaction for adiponectin
+and lend additional support for obesity prevention strategies in adolescents.
+
+
+PMCID: PMC3909950
+PMID: 21648277  [Indexed for MEDLINE]
+

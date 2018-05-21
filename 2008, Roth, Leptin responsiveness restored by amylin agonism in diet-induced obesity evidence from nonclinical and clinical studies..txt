@@ -1,0 +1,39 @@
+
+1. Proc Natl Acad Sci U S A. 2008 May 20;105(20):7257-62. doi:
+10.1073/pnas.0706473105. Epub 2008 May 5.
+
+Leptin responsiveness restored by amylin agonism in diet-induced obesity:
+evidence from nonclinical and clinical studies.
+
+Roth JD(1), Roland BL, Cole RL, Trevaskis JL, Weyer C, Koda JE, Anderson CM,
+Parkes DG, Baron AD.
+
+Author information: 
+(1)Amylin Pharmaceuticals, Inc., San Diego, CA 92121, USA.
+jonathan.roth@amylin.com
+
+Body weight is regulated by complex neurohormonal interactions between endocrine 
+signals of long-term adiposity (e.g., leptin, a hypothalamic signal) and
+short-term satiety (e.g., amylin, a hindbrain signal). We report that concurrent 
+peripheral administration of amylin and leptin elicits synergistic, fat-specific 
+weight loss in leptin-resistant, diet-induced obese rats. Weight loss synergy was
+specific to amylin treatment, compared with other anorexigenic peptides, and
+dissociable from amylin's effect on food intake. The addition of leptin after
+amylin pretreatment elicited further weight loss, compared with either
+monotherapy condition. In a 24-week randomized, double-blind, clinical
+proof-of-concept study in overweight/obese subjects, coadministration of
+recombinant human leptin and the amylin analog pramlintide elicited 12.7% mean
+weight loss, significantly more than was observed with either treatment alone (P 
+< 0.01). In obese rats, amylin pretreatment partially restored hypothalamic
+leptin signaling (pSTAT3 immunoreactivity) within the ventromedial, but not the
+arcuate nucleus and up-regulated basal and leptin-stimulated signaling in the
+hindbrain area postrema. These findings provide both nonclinical and clinical
+evidence that amylin agonism restored leptin responsiveness in diet-induced
+obesity, suggesting that integrated neurohormonal approaches to obesity
+pharmacotherapy may facilitate greater weight loss by harnessing naturally
+occurring synergies.
+
+DOI: 10.1073/pnas.0706473105 
+PMCID: PMC2438237
+PMID: 18458326  [Indexed for MEDLINE]
+

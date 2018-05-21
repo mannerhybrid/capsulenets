@@ -1,0 +1,39 @@
+
+1. J Nutr. 2013 Dec;143(12):1982-8. doi: 10.3945/jn.113.179192. Epub 2013 Sep 25.
+
+S-adenosylmethionine is associated with fat mass and truncal adiposity in older
+adults.
+
+Elshorbagy AK(1), Nijpels G, Valdivia-Garcia M, Stehouwer CD, Ocke M, Refsum H,
+Dekker JM.
+
+Author information: 
+(1)Department of Pharmacology, University of Oxford, Oxford, UK.
+
+S-adenosylmethionine (SAM) is synthesized from methionine, which is abundant in
+animal-derived protein, in an energy-consuming reaction. SAM and
+S-adenosylhomocysteine (SAH) correlate with body mass index (BMI). Plasma total
+concentration of the SAM-associated product cysteine (tCys) correlates with fat
+mass in humans and cysteine promotes adiposity in animals. In a cross-sectional
+study of 610 participants, we investigated whether SAM and SAH are associated
+with BMI via lean mass or fat mass and dietary protein sources as determinants of
+SAM and tCys concentrations. Plasma SAM was not associated with lean mass, but
+mean adjusted fat mass increased from 24 kg (95% CI: 22.6, 25.1) to 30 kg (95%
+CI: 28.7, 31.3) across SAM quartiles (P < 0.001) and trunk fat:total fat ratio
+increased from 0.48 to 0.52 (P < 0.001). Erythrocyte SAM was also positively
+associated with fat mass and trunk fat:total fat ratio. The association of SAM
+with fat mass was not weakened by adjustment for serum tCys, lipids, creatinine, 
+or dietary or lifestyle confounders. Concentrations of the SAM precursor,
+methionine, and the SAM product, SAH, were not independently associated with
+adiposity. Intake of animal-derived protein was not related to serum methionine
+but was positively associated with plasma SAM (partial r = 0.11) and serum tCys
+(partial r = 0.13; P < 0.05 for both after adjustment for age, gender, and total 
+energy intake). In conclusion, plasma SAM, but not methionine, is independently
+associated with fat mass and truncal adiposity, suggesting increased conversion
+of methionine to SAM in obese individuals. Prospective studies are needed to
+investigate the interactions among dietary energy and animal protein content, SAM
+concentrations, and change in body weight and cardiometabolic risk.
+
+DOI: 10.3945/jn.113.179192 
+PMID: 24068793  [Indexed for MEDLINE]
+

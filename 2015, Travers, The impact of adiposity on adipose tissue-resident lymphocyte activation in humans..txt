@@ -1,0 +1,49 @@
+
+1. Int J Obes (Lond). 2015 May;39(5):762-9. doi: 10.1038/ijo.2014.195. Epub 2014 Nov
+12.
+
+The impact of adiposity on adipose tissue-resident lymphocyte activation in
+humans.
+
+Travers RL(1), Motta AC(2), Betts JA(1), Bouloumié A(3), Thompson D(1).
+
+Author information: 
+(1)Department for Health, University of Bath, Bath, UK.
+(2)Unilever R&D Vlaardingen, Vlaardingen, The Netherlands.
+(3)INSERM U1048, Institut des maladies métaboliques et cardiovasculaires and
+Université Paul Sabatier, Toulouse, France.
+
+BACKGROUND/OBJECTIVES: The presence of T lymphocytes in human adipose tissue has 
+only recently been demonstrated and relatively little is known of their potential
+relevance in the development of obesity-related diseases. We aimed to further
+characterise these cells and in particular to investigate how they interact with 
+modestly increased levels of adiposity typical of common overweight and obesity.
+SUBJECTS/METHODS: Subcutaneous adipose tissue and fasting blood samples were
+obtained from healthy males aged 35-55 years with waist circumferences in lean
+(<94 cm), overweight (94-102 cm) and obese (>102 cm) categories. Adipose
+tissue-resident CD4+ and CD8+ T lymphocytes together with macrophages were
+identified by gene expression and flow cytometry. T lymphocytes were further
+characterised by their expression of activation markers CD25 and CD69. Adipose
+tissue inflammation was investigated using gene expression analysis and tissue
+culture.
+RESULTS: Participants reflected a range of adiposity from lean to class I
+obesity. Expression of CD4 (T-helper cells) and CD68 (macrophage), as well as
+FOXP3 RNA transcripts, was elevated in subcutaneous adipose tissue with increased
+levels of adiposity (P<0.001, P<0.001 and P=0.018, respectively). Flow cytometry 
+revealed significant correlations between waist circumference and levels of CD25 
+and CD69 expression per cell on activated adipose tissue-resident CD4+ and CD8+ T
+lymphocytes (P-values ranging from 0.053 to <0.001). No such relationships were
+found with blood T lymphocytes. This increased T lymphocyte activation was
+related to increased expression and secretion of various pro- and
+anti-inflammatory cytokines from subcutaneous whole adipose tissue explants.
+CONCLUSIONS: This is the first study to demonstrate that even modest levels of
+overweight/obesity elicit modifications in adipose tissue immune function. Our
+results underscore the importance of T lymphocytes during adipose tissue
+expansion, and the presence of potential compensatory mechanisms that may work to
+counteract adipose tissue inflammation, possibly through an increased number of
+T-regulatory cells.
+
+DOI: 10.1038/ijo.2014.195 
+PMCID: PMC4424387
+PMID: 25388403  [Indexed for MEDLINE]
+

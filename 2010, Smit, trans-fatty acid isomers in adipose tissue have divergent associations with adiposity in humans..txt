@@ -1,0 +1,39 @@
+
+1. Lipids. 2010 Aug;45(8):693-700. doi: 10.1007/s11745-010-3442-z. Epub 2010 Jul 14.
+
+trans-fatty acid isomers in adipose tissue have divergent associations with
+adiposity in humans.
+
+Smit LA(1), Willett WC, Campos H.
+
+Author information: 
+(1)Department of Nutrition, Harvard School of Public Health, 665 Huntington Ave, 
+Boston, MA 02115, USA.
+
+The aim of this study was to evaluate the association between adipose tissue
+trans-fatty acid isomers and adiposity. This cross-sectional study included 1,785
+subjects from Costa Rica. Fatty acid concentrations (as a percentage of the total
+fatty acids) in subcutaneous adipose tissue were assessed by gas-liquid
+chromatography. Dietary intakes were assessed with a food frequency
+questionnaire. Multivariate linear regression models were used to relate adipose 
+tissue trans-fatty acid content to BMI, waist circumference, and skinfold
+thickness while adjusting for age, sex, and area of residence. To account for
+variations in lifestyle, we adjusted for smoking, physical activity, income,
+self-reported history of diabetes and hypertension, and for adipose tissue
+alpha-linolenic acid and energy intake in a third model. After adjustments,
+positive associations were found between 18:2t-fatty acids (primarily from
+partially hydrogenated oils) and BMI, waist circumference, and skinfold thickness
+(P for each association <0.01). Rumenic acid was positively associated with
+skinfold thickness (P < 0.0001), but not with BMI or waist circumference (P >
+0.05). Inverse associations were found between 16:1n-7t-fatty acids and skinfold 
+thickness and between 18:1t-fatty acids and BMI and waist circumference (P <
+0.0001). This study suggests that individual trans-fatty acid isomers may have
+divergent effects on adiposity. 18:2t-fatty acids show consistent positive
+associations with measures of adiposity. These isomer-specific associations are
+an interesting new finding. Other prospective and intervention studies are
+necessary to examine these relationships further.
+
+DOI: 10.1007/s11745-010-3442-z 
+PMCID: PMC2922622
+PMID: 20628829  [Indexed for MEDLINE]
+

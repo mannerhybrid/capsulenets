@@ -1,0 +1,36 @@
+
+1. Handb Exp Pharmacol. 2012;(209):231-50. doi: 10.1007/978-3-642-24716-3_10.
+
+Effects of amylin on eating and adiposity.
+
+Lutz TA(1).
+
+Author information: 
+(1)Institute of Veterinary Physiology and Zurich Center for Integrative Human
+Physiology, University of Zurich, Switzerland. tomlutz@vetphys.uzh.ch
+
+Amylin's best investigated function is to reduce eating via a meal size effect by
+promoting meal-ending satiation. This effect seems to depend on an activation of 
+specific area postrema neurons. Brain areas that convey the neural signal to the 
+forebrain include the nucleus of the solitary tract and the lateral parabrachial 
+nucleus. Acute application of amylin modulates the activity of hypothalamic areas
+involved in the control of eating, namely, the lateral hypothalamic area and
+possibly the ventromedial hypothalamic nucleus. Amylin also interacts with other 
+satiating signals, such as cholecystokinin, presumably in the brainstem.
+Interestingly, amylin also exhibits characteristics of adiposity signals; plasma 
+levels of amylin are higher in obese individuals, chronic infusion of amylin into
+the brain reduces body weight gain and adiposity, and infusion of amylin
+antagonists increases adiposity. Furthermore, amylin maintains energy expenditure
+at higher levels than would be expected considering its body weight-lowering
+effect. However, much less is known (e.g., site of action, signaling pathways,
+differential activation of brain sites, and, most importantly, physiological
+relevance) with respect to its role as adiposity signal and regulator of energy
+expenditure than about its satiating action. Notwithstanding, and perhaps because
+amylin resistance does not seem to be a general and prohibitive concomitant of
+obesity, animal data and recent clinical data in humans indicate that amylin is a
+very promising candidate for the treatment of obesity. Amylin seems to be
+particularly effective when combined with other hormones such as leptin.
+
+DOI: 10.1007/978-3-642-24716-3_10 
+PMID: 22249817  [Indexed for MEDLINE]
+

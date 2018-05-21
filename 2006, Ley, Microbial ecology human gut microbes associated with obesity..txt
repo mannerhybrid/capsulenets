@@ -1,0 +1,23 @@
+
+1. Nature. 2006 Dec 21;444(7122):1022-3.
+
+Microbial ecology: human gut microbes associated with obesity.
+
+Ley RE(1), Turnbaugh PJ, Klein S, Gordon JI.
+
+Author information: 
+(1)Washington University School of Medicine, St Louis, Missouri 63108, USA.
+
+Comment in
+    Nature. 2006 Dec 21;444(7122):1009-10.
+
+Two groups of beneficial bacteria are dominant in the human gut, the
+Bacteroidetes and the Firmicutes. Here we show that the relative proportion of
+Bacteroidetes is decreased in obese people by comparison with lean people, and
+that this proportion increases with weight loss on two types of low-calorie diet.
+Our findings indicate that obesity has a microbial component, which might have
+potential therapeutic implications.
+
+DOI: 10.1038/4441022a 
+PMID: 17183309  [Indexed for MEDLINE]
+

@@ -1,0 +1,30 @@
+
+1. Anxiety Stress Coping. 2016 Jul;29(4):457-62. doi: 10.1080/10615806.2015.1065318.
+Epub 2015 Jul 21.
+
+Habituation to a stressor predicts adolescents' adiposity.
+
+Feda DM(1), Roberts AM(1), Roemmich JN(2).
+
+Author information: 
+(1)a Department of Pediatrics , University at Buffalo , Buffalo , NY , USA.
+(2)b USDA-ARS-NPA Grand Forks Human Nutrition Center , Grand Forks , ND , USA.
+
+BACKGROUND AND OBJECTIVES: Stress is associated with gains in adiposity. One
+factor that determines how much stress is experienced is how quickly an
+adolescent reduces responding (habituates) across repeated stressors. The purpose
+of this study was to determine the association of body mass index (BMI)
+percentile and the rate of habituation to a stressor.
+DESIGN: Thirty-four adolescents completed anthropometric measures and a
+habituation protocol using a within study design.
+METHODS: The habituation protocol measured the rate of decline in perceived
+stress and heart rate (HR) across four, two-minute serial subtraction trials.
+RESULTS: Multivariate linear regression revealed the habituation rate of the HR
+predicted BMI percentile after adjusting for gender, socioeconomic status, and
+initial HR (β = 17.2, p < .04).
+CONCLUSIONS: Slower habituation to a laboratory stressor was associated with
+greater BMI percentiles in adolescents.
+
+DOI: 10.1080/10615806.2015.1065318 
+PMID: 26133077  [Indexed for MEDLINE]
+

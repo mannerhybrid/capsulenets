@@ -1,0 +1,52 @@
+
+1. J Clin Endocrinol Metab. 2015 Apr;100(4):E596-600. doi: 10.1210/jc.2014-2934.
+Epub 2015 Jan 30.
+
+Association between sex hormones and adiposity: qualitative differences in women 
+and men in the multi-ethnic study of atherosclerosis.
+
+Mongraw-Chaffin ML(1), Anderson CA, Allison MA, Ouyang P, Szklo M, Vaidya D,
+Woodward M, Golden SH.
+
+Author information: 
+(1)Department of Family and Preventive Medicine (M.L.M.-C., C.A.M.A., M.A.A.),
+School of Medicine, University of California San Diego, San Diego California
+92093; Department of Epidemiology (M.L.M.-C., C.A.M.A., M.S., M.W., S.H.G.),
+Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland 21205;
+Department of Medicine (P.O., D.V., S.H.G.), The Johns Hopkins University School 
+of Medicine, Baltimore, Maryland 21205; The George Institute for Global Health
+(M.W.), The University of Sydney, Sydney, New South Wales, Australia 2000; and
+The George Institute for Global Health (M.W.), Nuffield Department of Population 
+Health, University of Oxford, Oxford OX3 7LF, United Kingdom.
+
+CONTEXT: Sex hormones may influence adipose tissue deposition, possibly
+contributing to sex disparities in cardiovascular disease risk.
+OBJECTIVE: We hypothesized that associations of sex hormone levels with visceral 
+and subcutaneous fat differ by sex.
+DESIGN, SETTING, AND PARTICIPANTS: Participants were from the Multi-Ethnic Study 
+of Atherosclerosis with sex hormone levels at baseline and visceral and
+subcutaneous fat measurements from computed tomography at visit 2 or 3 (n =
+1835).
+MAIN OUTCOME MEASURES: Multivariable linear regression was used to investigate
+the relationships between sex hormones and adiposity. Testing for interaction by 
+sex, race/ethnicity, and age was conducted.
+RESULTS: In adjusted models, there was a modest significant positive association 
+between estradiol and visceral fat in both sexes (percent difference in visceral 
+fat for 1% difference in hormone [95% confidence interval] in women, 5.44 [1.82, 
+9.09]; and in men, 8.22 [0.61, 16.18]). Higher bioavailable T was significantly
+associated with higher visceral and subcutaneous fat in women and with the
+reverse in men (women, 14.38 [10.23, 18.69]; men, -7.69 [-13.06, -1.00]). Higher 
+dehydroepiandrosterone was associated with higher visceral fat in women (7.57
+[1.71, 13.88]), but not in men (-2.47 [-8.88, 4.29]). Higher SHBG was associated 
+with significantly lower levels of adiposity in both sexes (women, -24.42
+[-28.11, -20.55]; men, -27.39 [-32.97, -21.34]). There was no significant
+interaction by race/ethnicity or age.
+CONCLUSION: Sex hormones are significantly associated with adiposity, and the
+associations of androgens differ qualitatively by sex. This heterogeneity may
+help explain the complexity of the contribution of sex hormones to sex
+differences in cardiovascular disease.
+
+DOI: 10.1210/jc.2014-2934 
+PMCID: PMC4399289
+PMID: 25636047  [Indexed for MEDLINE]
+

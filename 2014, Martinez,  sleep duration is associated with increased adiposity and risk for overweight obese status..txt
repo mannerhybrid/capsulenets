@@ -1,0 +1,46 @@
+
+1. J Sleep Res. 2014 Jun;23(3):326-34. doi: 10.1111/jsr.12114. Epub 2013 Dec 16.
+
+Mother-reported sleep, accelerometer-estimated sleep and weight status in Mexican
+American children: sleep duration is associated with increased adiposity and risk
+for overweight/obese status.
+
+Martinez SM(1), Greenspan LC, Butte NF, Gregorich SE, De Groat CL, Deardorff J,
+Penilla C, Pasch LA, Flores E, Tschann JM.
+
+Author information: 
+(1)Division of General Pediatrics, University of California at San Francisco, San
+Francisco, CA, USA.
+
+We know of no studies comparing parent-reported sleep with
+accelerometer-estimated sleep in their relation to paediatric adiposity. We
+examined: (i) the reliability of mother-reported sleep compared with
+accelerometer-estimated sleep; and (ii) the relationship between both sleep
+measures and child adiposity. The current cross-sectional study included 303
+Mexican American mother-child pairs recruited from Kaiser Permanente Northern
+California. We measured sleep duration using maternal report and accelerometry
+and child anthropometrics. Concordance between sleep measures was evaluated using
+the Bland-Altman method. We conducted zero-ordered correlations between
+mother-reported sleep, accelerometer-estimated sleep and child BMI z-scores
+(BMIz). Using linear regression, we examined three models to assess child BMIz
+with mother-reported sleep (model 1), accelerometer-estimated sleep (model 2) and
+both sleep measures (model 3). Children had an average age of 8.86 years
+(SD = 0.82). Mothers reported that their child slept 9.81 ± 0.74 h [95%
+confidence interval (CI): 9.72, 9.89], compared to 9.58 ± 0.71 h (95% CI: 9.50,
+9.66) based on accelerometry. Mother-reported sleep and accelerometer-estimated
+sleep were correlated (r = 0.33, P < 0.001). BMIz outcomes were associated
+negatively with mother-reported sleep duration (model 1: β = -0.13; P = 0.02) and
+accelerometer-estimated sleep duration (model 2: β = -0.17; P < 0.01). Accounting
+for both sleep measures, only accelerometer-measured sleep was related to BMIz
+(model 3: β = -0.14, P = 0.02). Each sleep measure was related significantly to
+adiposity, independent of covariates. Accelerometry appeared to be a more
+reliable measure of children's sleep than maternal report, yet maternal report
+may be sufficient to examine the sleep-adiposity relationship when resources are 
+limited.
+
+© 2013 European Sleep Research Society.
+
+DOI: 10.1111/jsr.12114 
+PMCID: PMC4492432
+PMID: 24329818  [Indexed for MEDLINE]
+

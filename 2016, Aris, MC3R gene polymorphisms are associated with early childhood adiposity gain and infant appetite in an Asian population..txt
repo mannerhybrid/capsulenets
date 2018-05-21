@@ -1,0 +1,61 @@
+
+1. Pediatr Obes. 2016 Dec;11(6):450-458. doi: 10.1111/ijpo.12086. Epub 2015 Dec 11.
+
+MC3R gene polymorphisms are associated with early childhood adiposity gain and
+infant appetite in an Asian population.
+
+Aris IM(1)(2), Tint MT(3), Teh AL(1), Holbrook JD(1), Quah PL(1), Chong MF(1)(2),
+Lin X(1), Soh SE(1)(2), Saw SM(4), Kwek K(5), Godfrey KM(6), Gluckman PD(2)(7),
+Chong YS(3), Lek N(8), Yap F(8), Lee YS(1)(2)(9).
+
+Author information: 
+(1)Singapore Institute for Clinical Sciences, Agency for Science, Technology and 
+Research, Singapore.
+(2)Department of Paediatrics, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore.
+(3)Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine,
+National University of Singapore, Singapore.
+(4)Saw Swee Hock School of Public Health, National University of Singapore,
+Singapore.
+(5)Department of Maternal Fetal Medicine, KK Women's and Children's Hospital,
+Singapore.
+(6)MRC Lifecourse Epidemiology Unit and NIHR Southampton Biomedical Research
+Centre, University of Southampton and University Hospital Southampton NHS
+Foundation Trust, Southampton, UK.
+(7)Liggins Institute, University of Auckland, Auckland, New Zealand.
+(8)Department of Paediatrics, KK Women's and Children's Hospital, Singapore.
+(9)Khoo Teck Puat-National University Children's Medical Institute, National
+University Health System, Singapore.
+
+BACKGROUND: Polymorphic variants within human melanocortin-3 receptor gene (MC3R)
+gene have been associated with obesity. However, its influence on infancy and
+early childhood adiposity has not been reported before.
+OBJECTIVES: We assessed associations between genotype at polymorphic sites within
+MC3R with early childhood adiposity and interaction with early childhood
+appetitive traits.
+METHODS: We studied 1090 singletons in an Asian mother-offspring cohort genotyped
+for MC3R and in a subgroup (n = 422) who had completed Child Eating Behaviour
+Questionnaires (CEBQ) at 12 months. Children were followed from birth to 48
+months, and up to 10 measurements of body mass index and five measures of triceps
+and subscapular skin-folds were obtained.
+RESULTS: Independent of potential confounders, each additional MC3R minor allele 
+copy was associated with greater body mass index standard deviation score [B{95% 
+confidence interval}: 0.004 units/month {0.001,0.007}; p = 0.007], triceps
+[0.009 mm/month {0.001,0.02}; p = 0.021] and subscapular skin-fold
+[0.008 mm/month {0.002,0.01}; p = 0.011] gain velocity in the first 48 months.
+Each additional MC3R minor allele copy was also associated with increased odds of
+overweight [odds ratio {95% confidence interval}: 1.48{1.17-1.88}] and obesity
+[1.58{1.10-2.28}] in the first 48 months. Every additional copy of MC3R minor
+allele was positively associated with 'slowness-in-eating' appetitive trait
+[0.24{0.06,0.39}, p = 0.006]; however, the relationship between
+'slowness-in-eating' with adiposity gain was not statistically significant.
+CONCLUSIONS: Our findings support the role of MC3R genetic variants in adiposity 
+gain during early childhood.
+
+© 2015 The Authors. Pediatric Obesity published by John Wiley & Sons Ltd on
+behalf of World Obesity Federation.
+
+DOI: 10.1111/ijpo.12086 
+PMCID: PMC5111755
+PMID: 26663875  [Indexed for MEDLINE]
+

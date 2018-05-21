@@ -1,0 +1,53 @@
+
+1. J Sci Med Sport. 2015 Mar;18(2):178-82. doi: 10.1016/j.jsams.2014.03.005. Epub
+2014 Mar 15.
+
+Longitudinal associations between sports participation, body composition and
+physical activity from childhood to adolescence.
+
+Basterfield L(1), Reilly JK(1), Pearce MS(2), Parkinson KN(1), Adamson AJ(3),
+Reilly JJ(4), Vella SA(5).
+
+Author information: 
+(1)Institute of Health & Society and Human Nutrition Research Centre, Newcastle
+University, UK.
+(2)Institute of Health & Society, Newcastle University, UK.
+(3)Institute of Health & Society and Human Nutrition Research Centre, Newcastle
+University, UK. Electronic address: Ashley.Adamson@newcastle.ac.uk.
+(4)Physical Activity for Health Group, University of Strathclyde, UK.
+(5)Interdisciplinary Educational Research Institute, Faculty of Social Sciences, 
+University of Wollongong, Australia.
+
+OBJECTIVES: Several important research questions have been addressed: (1) What
+are the cross-sectional associations between sports club participation,
+objectively measured physical activity, and adiposity? (2) Do measures of
+physical activity and adiposity predict subsequent sports club participation? (3)
+Does sports club participation predict subsequent measures of physical activity
+and adiposity? and (4) Do changes in sports club participation predict changes in
+objective measures of physical activity and adiposity?
+DESIGN: Longitudinal and cross-sectional.
+METHODS: Data from the Gateshead Millennium Study birth cohort (n=609 at age 7
+years) were analysed for associations between adiposity, sports club
+participation and accelerometer-measured physical activity from ages 7y to 9y to 
+12y.
+RESULTS: Seventy-two per cent of 9 year olds and 63% of 12 year olds took part in
+a sports club. Sports club participation was significantly associated with
+overall accelerometer-measured physical activity at 12y (coefficient=0.0.09; 95% 
+CI: 0.01-0.16) but not 9y. An inverse relationship between fat mass (estimated
+from bioelectric impedance) and sport club participation, and between fat mass
+and accelerometer-measured physical activity was observed at 12y, but not 9y.
+Sports club participation at 9y was highly predictive of participation at 12y.
+Sports club participation was significantly associated with socioeconomic status;
+fewer children from poorer areas took part.
+CONCLUSIONS: Sports club participation in adolescence may be associated with
+decreased levels of adiposity. Furthermore, the potential benefits of sports club
+participation for adiposity are likely generated from continuous participation in
+sports, rather than any long-term protective effects.
+
+Copyright © 2014 Sports Medicine Australia. Published by Elsevier Ltd. All rights
+reserved.
+
+DOI: 10.1016/j.jsams.2014.03.005 
+PMCID: PMC4364369
+PMID: 24704422  [Indexed for MEDLINE]
+

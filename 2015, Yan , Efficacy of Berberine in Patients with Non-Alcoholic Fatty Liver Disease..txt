@@ -1,0 +1,50 @@
+
+1. PLoS One. 2015 Aug 7;10(8):e0134172. doi: 10.1371/journal.pone.0134172.
+eCollection 2015.
+
+Efficacy of Berberine in Patients with Non-Alcoholic Fatty Liver Disease.
+
+Yan HM(1), Xia MF(1), Wang Y(2), Chang XX(1), Yao XZ(3), Rao SX(3), Zeng MS(3),
+Tu YF(4), Feng R(2), Jia WP(4), Liu J(5), Deng W(6), Jiang JD(2), Gao X(1).
+
+Author information: 
+(1)Department of Endocrinology and Metabolism, Zhongshan Hospital, Fudan
+University, Shanghai, 200032, China.
+(2)Institute of Materia Medica, Chinese Academy of Medical Sciences, and Peking
+Union Medical College, Beijing, 100050, China.
+(3)Department of Radiology, Zhongshan Hospital, Fudan University, Shanghai,
+200032, China.
+(4)Department of Endocrinology and Metabolism, The Sixth People's Hospital,
+Shanghai Jiaotong University, Shanghai, 200233, China.
+(5)Department of Endocrinology and Metabolism, The Fifth People's Hospital, Fudan
+University, Shanghai, 200240, China.
+(6)School of public health, Fudan University, Shanghai, 200032, China.
+
+OBJECTIVES: A randomized, parallel controlled, open-label clinical trial was
+conducted to evaluate the effect of a botanic compound berberine (BBR) on NAFLD.
+METHODS: A randomized, parallel controlled, open-label clinical trial was
+conducted in three medical centers (NIH Registration number: NCT00633282). A
+total of 184 eligible patients with NAFLD were enrolled and randomly received (i)
+lifestyle intervention (LSI), (ii) LSI plus pioglitazone (PGZ) 15mg qd, and (iii)
+LSI plus BBR 0.5g tid, respectively, for 16 weeks. Hepatic fat content (HFC),
+serum glucose and lipid profiles, liver enzymes and serum and urine BBR
+concentrations were assessed before and after treatment. We also analyzed hepatic
+BBR content and expression of genes related to glucose and lipid metabolism in an
+animal model of NAFLD treated with BBR.
+RESULTS: As compared with LSI, BBR treatment plus LSI resulted in a significant
+reduction of HFC (52.7% vs 36.4%, p = 0.008), paralleled with better improvement 
+in body weight, HOMA-IR, and serum lipid profiles (all p<0.05). BBR was more
+effective than PGZ 15mg qd in reducing body weight and improving lipid profile.
+BBR-related adverse events were mild and mainly occurred in digestive system.
+Serum and urine BBR concentrations were 6.99ng/ml and 79.2ng/ml, respectively, in
+the BBR-treated subjects. Animal experiments showed that BBR located favorably in
+the liver and altered hepatic metabolism-related gene expression.
+CONCLUSION: BBR ameliorates NAFLD and related metabolic disorders. The
+therapeutic effect of BBR on NAFLD may involve a direct regulation of hepatic
+lipid metabolism.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT00633282.
+
+DOI: 10.1371/journal.pone.0134172 
+PMCID: PMC4529214
+PMID: 26252777  [Indexed for MEDLINE]
+

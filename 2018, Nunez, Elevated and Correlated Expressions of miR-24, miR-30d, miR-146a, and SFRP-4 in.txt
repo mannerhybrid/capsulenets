@@ -1,0 +1,43 @@
+
+1. Int J Endocrinol. 2018 Mar 12;2018:7351902. doi: 10.1155/2018/7351902.
+eCollection 2018.
+
+Elevated and Correlated Expressions of miR-24, miR-30d, miR-146a, and SFRP-4 in
+Human Abdominal Adipose Tissue Play a Role in Adiposity and Insulin Resistance.
+
+Nunez Lopez YO(1), Garufi G(1), Pasarica M(2), Seyhan AA(1)(3)(4).
+
+Author information: 
+(1)Translational Research Institute for Metabolism and Diabetes, Florida
+Hospital, Orlando, FL, USA.
+(2)University of Central Florida College of Medicine, Orlando, FL, USA.
+(3)Sanford Burnham Prebys Medical Discovery Institute, Orlando, FL, USA.
+(4)The Chemical Engineering Department, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+
+Objective: We explored the relationships among microRNAs (miRNAs) and SFRP4, as
+they relate to adipose tissue functions including lipolysis, glucose and glycerol
+turnover, and insulin sensitivity.
+Methods: Abdominal adipose tissue (AbdAT) levels of thirteen microRNAs (miRNAs), 
+SFRP4, and VEGF in lean nondiabetic subjects (n = 7), subjects with obesity (n = 
+5), and subjects with obesity and type 2 diabetes (T2DM) (n = 5) were measured by
+qPCR. Insulin sensitivity was measured by the euglycemic-hyperinsulinemic clamp. 
+Osmium fixation and Coulter counting were used for adipocyte sizing. Data were
+analyzed using generalized linear models that adjusted for age, gender, and
+ethnicity.
+Results: AbdAT miR-24, miR-30d, and miR-146a were elevated in subjects with
+obesity (P < 0.05) and T2DM (P < 0.1) and positively correlated with measures of 
+percent body fat by DXA (rmiR.24 = 0.894, rmiR.146a = 0.883, P < 0.05), and AbdAT
+SFRP4 (rmiR.30 = 0.93, rmiR.146a = 0.88, P < 0.05). These three miRNAs
+additionally correlated among themselves (rmiR.24~miR.146a = 0.90,
+rmiR.30~miR.146a = 0.85, P < 0.01).
+Conclusions: This study suggests a novel association between the elevated levels 
+of miRNAs miR-24, miR-30d, and miR-146a (apparently coregulated) and the level of
+SFRP4 transcript in AbdAT of subjects with obesity and T2DM. These molecules
+might be part of a regulatory loop involved in AbdAT remodeling/adiposity and
+systemic insulin resistance. This trial is registered with NCT00704197.
+
+DOI: 10.1155/2018/7351902 
+PMCID: PMC5867542
+PMID: 29721017 
+

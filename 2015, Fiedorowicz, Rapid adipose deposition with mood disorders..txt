@@ -1,0 +1,35 @@
+
+1. Ann Clin Psychiatry. 2015 Nov;27(4):283-8.
+
+Rapid adipose deposition with mood disorders.
+
+Fiedorowicz JG(1), Andersen LE, Persons JE, Calarge C.
+
+Author information: 
+(1)Department of Psychiatry, Department of Internal Medicine, Roy J. and Lucille 
+A. Carver College of Medicine, Iowa City, IA USA, Department of Epidemiology,
+College of Public Health, University of Iowa, Iowa City, IA USA. E-mail:
+jess-fiedorowicz@uiowa.edu.
+
+BACKGROUND: Persons with bipolar disorder represent a high-risk group for
+obesity, but little is known about the time course by which weight gain occurs in
+bipolar disorder.
+METHODS: We prospectively studied changes in fat distribution using dual-energy
+x-ray absorptiometry in relationship to medication exposure and mood symptom
+burden in 36 participants with bipolar disorder. We assessed the relationship
+between prior medication exposure and course of illness with adiposity measures
+at baseline (N = 36) and at 6-month follow-up (N = 22).
+RESULTS: At baseline, greater adiposity was associated with advanced age and
+female sex, not retrospectively assessed symptom course or medication exposure
+(past 2 years). Over 6 months of prospective follow-up, participants developed
+greater adiposity (fat mass index +0.82 kg/m(²), P = .007; visceral fat area +8.6
+cm(²), P = .02; total percent fat +1.6%, P = .02). Manic symptomatology, not
+antipsychotic exposure, was related to the increased adiposity.
+CONCLUSIONS: Acute exacerbations of mood disorders appear to represent high-risk 
+periods for adipose deposition. Obesity prevention efforts may be necessary
+during acute exacerbations.
+
+
+PMCID: PMC4696501
+PMID: 26554369  [Indexed for MEDLINE]
+

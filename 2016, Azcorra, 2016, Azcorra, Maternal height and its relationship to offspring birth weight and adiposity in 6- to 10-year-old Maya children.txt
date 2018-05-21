@@ -1,0 +1,39 @@
+
+1. Am J Phys Anthropol. 2016 Dec;161(4):571-579. doi: 10.1002/ajpa.23057. Epub 2016 
+Jul 28.
+
+Maternal height and its relationship to offspring birth weight and adiposity in
+6- to 10-year-old Maya children from poor neighborhoods in Merida, Yucatan.
+
+Azcorra H(1), Dickinson F(1), Datta Banik S(1).
+
+Author information: 
+(1)Department of Human Ecology, Centro de Investigación y de Estudios Avanzados
+del Instituto Politécnico Nacional, Antigua Carretera a Progreso Km. 6, Merida,
+Yucatan, 97310, Mexico.
+
+OBJECTIVE: To analyze the relationship between maternal height, offspring birth
+weight, and adiposity at 6-10 years of age in a sample of 197 mother-child dyads 
+from Merida, Mexico.
+MATERIALS AND METHODS: During 2008-2009 and 2011-2013, measurements were taken of
+maternal height and weight; and height, waist circumference (WC), and skinfolds
+(triceps, subscapular, and suprailiac) of their children. Participant body
+composition was estimated using a bioelectrical impedance analyzer. A
+questionnaire was applied to document household socioeconomic conditions.
+Multiple linear regression models were used to study the association between
+maternal height, offspring birth weight and fat mass index (FMI), WC, and sum of 
+skinfolds (SumSkfZ) in boys and girls, separately.
+RESULTS: After adjusting for child age and household socioeconomic conditions,
+maternal height was identified to be significantly associated (p < .05) with FMI,
+WC, and SumSkf only in boys. In all models, child adiposity was inversely related
+to maternal height. Offspring birth weight was not associated with any adiposity 
+parameter.
+DISCUSSION: The results suggest that maternal nutritional history as reflected in
+short maternal stature is associated with higher body fat in children, and that
+male offspring are more vulnerable to intergenerational influences.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajpa.23057 
+PMID: 27465976  [Indexed for MEDLINE]
+

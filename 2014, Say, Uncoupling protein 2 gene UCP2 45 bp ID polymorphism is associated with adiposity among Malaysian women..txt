@@ -1,0 +1,35 @@
+
+1. J Biosci. 2014 Dec;39(5):867-75.
+
+Uncoupling protein 2 gene (UCP2) 45-bp I/D polymorphism is associated with
+adiposity among Malaysian women.
+
+Say YH(1), Ban ZL, Arumugam Y, Kaur T, Tan ML, Chia PP, Fan SH.
+
+Author information: 
+(1)Department of Biomedical Science, Faculty of Science, Centre for Foundation
+Studies, Universiti Tunku Abdul Rahman (UTAR) Perak Campus, Kampar, Perak,
+Malaysia, sayyh@utar.edu.my.
+
+This study investigated the association of Uncoupling Protein 2 gene (UCP2) 45-bp
+I/D polymorphism with obesity and adiposity in 926 Malaysian subjects (416
+males;265 obese; 102/672/152 Malays/Chinese/Indians). The overall minor allele
+frequency (MAF) was 0.14, while MAFs according to Malay/Chinese/Indian were
+0.17/0.12/0.21. The polymorphism was associated with ethnicity, obesity and
+overall adiposity (total body fat percentage, TBF), but not gender and central
+adiposity (waist-hip ratio, WHR). Gender- and ethnicity-stratified analysis
+revealed that within males, the polymorphism was not associated with ethnicity
+and anthropometric classes. However, within females, significantly more Indians, 
+obese and those with high TBF carried I allele. Logistic regression analysis
+among females further showed the polymorphism was associated with obesity and
+overall adiposity; however, when adjusted for age and ethnicity, this association
+was abolished for obesity but remained significant for overall adiposity [Odds
+Ratio (OR) for ID genotype = 2.02 (CI=1.18, 3.45; p=0.01); I allele =1.81
+(CI=1.15, 2.84; p=0.01)]. Indeed, covariate analysis controlling for age and
+ethnicity also showed that those carrying ID genotype or I allele had
+significantly higher TBF than the rest. In conclusion, UCP2 45-bp I/D
+polymorphism is associated with overall adiposity among Malaysian women.
+
+
+PMID: 25431415  [Indexed for MEDLINE]
+

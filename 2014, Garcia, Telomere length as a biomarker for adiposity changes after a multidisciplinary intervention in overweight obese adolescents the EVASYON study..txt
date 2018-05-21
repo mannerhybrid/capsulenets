@@ -1,0 +1,77 @@
+
+1. PLoS One. 2014 Feb 24;9(2):e89828. doi: 10.1371/journal.pone.0089828. eCollection
+2014.
+
+Telomere length as a biomarker for adiposity changes after a multidisciplinary
+intervention in overweight/obese adolescents: the EVASYON study.
+
+García-Calzón S(1), Moleres A(1), Marcos A(2), Campoy C(3), Moreno LA(4),
+Azcona-Sanjulián MC(5), Martínez-González MA(6), Martínez JA(7), Zalba G(8),
+Marti A(7); EVASYON Study Group.
+
+Collaborators: Marcos A, Campoy C, López-Belmonte G, Delgado M, Martín-Matillas
+M, Aparicio V, Carbonell A, Agil A, Silva DR, Pérez-Ballesteros C, Piqueras MJ,
+Chillón P, Tercedor P, Martín-Lagos JA, Martín-Bautista E, Pérez-Expósito M,
+Garófano M, Aguilar MJ, Fernández-Mayorga A, Sánchez P, Marcos A, Wärnberg J,
+Puertollano MA, Gómez-Martínez S, Zapatera B, Nova E, Romeo J, Díaz EL, Pozo T,
+Morandé G, Villaseñor A, Madruga D, Muñoz R, Veiga OL, Villagra A, Martínez-Gómez
+D, Garcia RM, Vaquero MP, Pérez-Granados AM, Navas-Carretero S, Martí A,
+Azcona-Sanjulián MC, Moleres A, Rendo-Urteaga T, Marqués M, Martínez JA,
+Redondo-Figuero C, García-Fuentes M, DeRufino P, González-Lamuño D, Amigo T,
+Lanza R, Noriega MJ, Garagorri JM, Moreno LA, Romero P, De Miguel P, Rodríguez G,
+Bueno G, Mesana MI, Vicente G, Fernández J, Rey-López P, Muro C, Tomás C.
+
+Author information: 
+(1)Department of Nutrition, Food Science and Physiology, University of Navarra,
+Pamplona, Spain.
+(2)Immunonutrition Research Group, Department of Metabolism and Nutrition,
+Institute of Food Science, Technology, and Nutrition, Instituto del Frío, Spanish
+National Research Council, Madrid, Spain.
+(3)Pediatric Department, Medicine School, Universidad de Granada, Granada, Spain.
+(4)GENUD (Growth, Exercise, Nutrition and Development) Research Group, Facultad
+de Ciencias de la Salud, University of Zaragoza, Zaragoza, Spain.
+(5)Pediatric Endocrinology Unit, Department of Pediatrics, University of Navarra 
+Hospital, Pamplona, Spain.
+(6)Department of Preventive Medicine and Public Health, University of Navarra,
+Pamplona, Spain ; CIBER Fisiopatología de la Obesidad y Nutrición (CIBERobn),
+Instituto de Salud Carlos III, Madrid, Spain.
+(7)Department of Nutrition, Food Science and Physiology, University of Navarra,
+Pamplona, Spain ; CIBER Fisiopatología de la Obesidad y Nutrición (CIBERobn),
+Instituto de Salud Carlos III, Madrid, Spain.
+(8)Department of Biochemistry and Genetics, University of Navarra, Pamplona,
+Spain.
+
+CONTEXT: Telomeres are biomarkers of biological aging. Shorter telomeres have
+been associated with increased adiposity in adults. However, this relationship
+remains unclear in children and adolescents.
+OBJECTIVE: To evaluate the association between telomere length (TL) and adiposity
+markers in overweight/obese adolescents after an intensive program. We
+hypothesize that greater TL at baseline would predict a better response to a
+weight loss treatment.
+DESIGN SETTING PATIENTS AND INTERVENTION: The EVASYON is a multidisciplinary
+treatment program for adolescents with overweight and obesity that is aimed at
+applying the intervention to all possibly involved areas of the individual, such 
+as dietary habits, physical activity and cognitive and psychological profiles.
+Seventy-four participants (36 males, 38 females, 12-16 yr) were enrolled in the
+intervention program: 2 months of an energy-restricted diet and a follow-up
+period (6 months).
+MAIN OUTCOME: TL was measured by quantitative real-time polymerase chain reaction
+at baseline and after 2 months; meanwhile, anthropometric variables were also
+assessed after 6 months of follow-up.
+RESULTS: TL lengthened in participants during the intensive period (+1.9±1.0,
+p<0.001) being greater in overweight/obese adolescents with the shortest
+telomeres at baseline (r = -0.962, p<0.001). Multivariable linear regression
+analysis showed that higher baseline TL significantly predicted a higher decrease
+in body weight (B = -1.53, p = 0.005; B = -2.25, p = 0.047) and in standard
+deviation score for body mass index (BMI-SDS) (B = -0.22, p = 0.010; B = -0.47,
+p = 0.005) after the intensive and extensive period treatment respectively, in
+boys.
+CONCLUSION: Our study shows that a weight loss intervention is accompanied by a
+significant increase in TL in overweight/obese adolescents. Moreover, we suggest 
+that initial longer TL could be a potential predictor for a better weight loss
+response.
+
+DOI: 10.1371/journal.pone.0089828 
+PMCID: PMC3933678
+PMID: 24587065  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Neonatology. 2017;111(4):344-352. doi: 10.1159/000454756. Epub 2017 Jan 18.
+
+Associations of Maternal Leptin with Neonatal Adiposity Differ according to
+Pregravid Weight.
+
+Patenaude J(1), Lacerte G, Lacroix M, Guillemette L, Allard C, Doyon M, Battista 
+MC, Moreau J, Ménard J, Ardilouze JL, Perron P, Hivert MF.
+
+Author information: 
+(1)Department of Medicine, Université de Sherbrooke, Sherbrooke, QC, Canada.
+
+BACKGROUND: During pregnancy, maternal circulating leptin is released by maternal
+adipose tissue and the placenta, and may have a role in fetal development.
+OBJECTIVES: We investigated maternal leptinemia and glycemia associations with
+neonatal adiposity, taking into account pregravid weight status.
+METHODS: We included 235 pregnant women from the Genetics of Glucose Regulation
+in Gestation and Growth prospective cohort with data: blood samples collected
+during the 2nd trimester, an oral glucose tolerance test (OGTT), and the measured
+leptin and glucose levels. As an integrated measure of maternal leptin exposure, 
+we calculated the area under the curve for maternal leptin at the OGTT
+(AUCleptin). Within 72 h of delivery, we measured the triceps, biceps,
+subscapular, and suprailiac skinfold thicknesses (SFTs); the sum of these SFTs
+represented neonatal adiposity. We conducted a regression analysis to assess the 
+maternal metabolic determinants of neonatal adiposity, adjusting for parity,
+smoking status, maternal triglyceride levels, gestational weight gain, placental 
+weight, delivery mode, neonate sex, and gestational age at delivery.
+RESULTS: The pregravid BMI of the participating women was 23.3 (21.2-27.0). In
+the 2nd trimester, maternal AUCleptin was 1,292.0 (767.0-2,222.5) (ng × min)/mL, 
+and fasting glucose levels were 4.2 ± 0.4 mmol/L. At delivery, the neonatal sum
+of 4 SFTs was 17.9 ± 3.3 mm. Higher maternal leptinemia was associated with
+higher neonatal adiposity (β = 4.23 mm [SE = 1.77] per log-AUCleptin; p = 0.02)
+in mothers with a BMI ≥25, independently of confounders and maternal glycemia,
+but not in mothers with a BMI <25. Higher maternal fasting glucose was associated
+with higher neonatal adiposity (β = 0.88 mm [SE = 0.30] per SD glucose; p =
+0.005) in mothers with a BMI <25, independently of confounders and maternal
+leptinemia.
+CONCLUSION: Maternal leptinemia may be associated with neonatal adiposity in
+offspring from overweight/obese mothers, independently of maternal glycemia.
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000454756 
+PMID: 28095377  [Indexed for MEDLINE]
+

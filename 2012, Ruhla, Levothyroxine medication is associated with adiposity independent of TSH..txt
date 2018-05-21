@@ -1,0 +1,41 @@
+
+1. Exp Clin Endocrinol Diabetes. 2012 Jun;120(6):351-4. doi: 10.1055/s-0032-1312599.
+Epub 2012 May 25.
+
+Levothyroxine medication is associated with adiposity independent of TSH.
+
+Ruhla S(1), Arafat AM, Osterhoff M, Weickert MO, Mai K, Spranger J, Schöfl C,
+Pfeiffer AF, Möhlig M.
+
+Author information: 
+(1)Department of Endocrinology, Diabetes and Nutrition, Charité-University
+Medicine Berlin, Campus Benjamin Franklin, Berlin, Germany.
+
+AIM: In euthyroidism, higher TSH levels are weakly associated with increased BMI.
+Furthermore, a considerable number of patients complain of weight gain during
+thyroid hormone replacement after thyroidectomy. We therefore investigated the
+association between levothyroxine medication and BMI in a large cross-sectional
+study group.
+METHODS: We included euthyroid participants from the MeSyBePo study group (TSH
+between 0.3 and 4.5 μU/ml) that did not take thyreostatic drugs. Linear
+regression analyses were performed to address the association between
+levothyroxine medication and obesity. Additionally, pairs matched by sex, age and
+TSH but discordant in levothyroxine medication were compared.
+RESULTS: 1663 subjects (569 males) were eligible for inclusion. 151 participants 
+were taking levothyroxine. Adjusted for sex and age both TSH (standardised beta
+0.1, p<0.001) and levothyroxine medication (standardised beta 0.05, p=0.03) were 
+significantly associated with BMI. There was no significant interaction between
+TSH and levothyroxine medication with respect to BMI. Further adjustment for
+smoking and the restriction to those subjects with normal glucose metabolism (947
+participants (314 males, 82 on levothyroxine medication) did not alter the
+result. In matched pair analysis (133 pairs), BMI was significantly increased in 
+subjects taking levothyroxine compared to controls.
+CONCLUSION: Independently from TSH, levothyroxine medication was associated with 
+a higher BMI. The mechanisms, however, responsible for this association need to
+be elucidated.
+
+© J. A. Barth Verlag in Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0032-1312599 
+PMID: 22639395  [Indexed for MEDLINE]
+

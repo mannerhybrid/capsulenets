@@ -1,0 +1,35 @@
+
+1. J Appl Physiol (1985). 2011 Oct;111(4):1218-24. doi:
+10.1152/japplphysiol.00478.2011. Epub 2011 Jun 2.
+
+Metabolic disruptions induced by reduced ambulatory activity in free-living
+humans.
+
+Thyfault JP(1), Krogh-Madsen R.
+
+Author information: 
+(1)Harry S Truman Memorial Veterans Hospital, Department of Nutrition, Health
+Activity Center, University of Missouri, Columbia, Missouri 65201, USA.
+thyfaultj@missouri.edu
+
+Physical inactivity likely plays a role in the development of insulin resistance 
+and obesity; however, direct evidence is minimal and mechanisms of action remain 
+unknown. Studying metabolic outcomes that occur after transitioning from higher
+to lower levels of physical activity is the best tool to answer these questions. 
+Previous studies have successfully used more extreme models of inactivity,
+including bed rest, or the cessation of exercise in highly trained endurance
+athletes, to provide novel findings. However, these models do not accurately
+reflect the type of inactivity experienced by a large majority of the population.
+Recent studies have used a more applicable model in which active (∼10,000
+steps/day), healthy young controls are asked to transition to an inactive
+lifestyle (∼1,500 steps/day) for a 14-day period. The transition to inactivity
+resulted in reduced insulin sensitivity and increased central adiposity. This
+review will discuss the outcomes of these studies, their implications for the
+cause/effect relationship between central adiposity and insulin resistance, and
+provide rationale for why inactivity induces these factors. In addition, the
+experimental challenges of directly linking acute responses to inactivity to
+chronic disease will also be discussed.
+
+DOI: 10.1152/japplphysiol.00478.2011 
+PMID: 21636564  [Indexed for MEDLINE]
+

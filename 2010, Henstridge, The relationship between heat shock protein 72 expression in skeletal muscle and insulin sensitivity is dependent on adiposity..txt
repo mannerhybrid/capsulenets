@@ -1,0 +1,41 @@
+
+1. Metabolism. 2010 Nov;59(11):1556-61. doi: 10.1016/j.metabol.2010.01.027. Epub
+2010 Mar 4.
+
+The relationship between heat shock protein 72 expression in skeletal muscle and 
+insulin sensitivity is dependent on adiposity.
+
+Henstridge DC(1), Forbes JM, Penfold SA, Formosa MF, Dougherty S, Gasser A, de
+Courten MP, Cooper ME, Kingwell BA, de Courten B.
+
+Author information: 
+(1)Baker IDI Heart and Diabetes Institute, Melbourne, Victoria, 3004, VIC,
+Australia.
+
+Decreased gene expression of heat shock protein 72 (HSP72) in skeletal muscle is 
+associated with insulin resistance in humans. We aimed to determine whether HSP72
+protein expression in insulin-sensitive tissues is related to criterion standard 
+measures of adiposity and insulin resistance in a young healthy human population 
+free of hyperglycemia. Healthy participants (N = 17; age, 30 ± 3 years) underwent
+measurement of body composition (dual-energy x-ray absorptiometry), a maximum
+aerobic capacity test (VO(2max)), an oral glucose tolerance test, and a
+hyperinsulinemic-euglycemic clamp (M) to access insulin sensitivity. Skeletal
+muscle and subcutaneous adipose tissue biopsies were obtained by percutaneous
+needle biopsy. HSP72 protein expression in skeletal muscle was inversely related 
+to percentage body fat (r = -0.54, P < .05) and remained significant after
+adjustment for age and sex (P < .05). Insulin sensitivity was also related to
+HSP72 protein expression in skeletal muscle (r = 0.52, P < .05); however, this
+relationship disappeared after adjustment for percentage body fat (P = .2). In
+adipose tissue, HSP72 protein expression was not related to adiposity or insulin 
+sensitivity. Physical activity and aerobic fitness did not show any association
+with HSP72 protein expression in either tissue studied. A lower expression of
+HSP72 protein in human skeletal muscle was associated with increased adiposity
+and decreased insulin sensitivity in healthy individuals. These findings are
+consistent with rodent data suggesting that HSP72 stimulates fat oxidation with
+consequent reduction in fat storage and adiposity.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.metabol.2010.01.027 
+PMID: 20199785  [Indexed for MEDLINE]
+

@@ -1,0 +1,57 @@
+
+1. Diabetes Care. 2016 Oct;39(10):1745-51. doi: 10.2337/dc16-0269. Epub 2016 Aug 3.
+
+Longitudinal Associations of Exposure to Perfluoroalkylated Substances in
+Childhood and Adolescence and Indicators of Adiposity and Glucose Metabolism 6
+and 12 Years Later: The European Youth Heart Study.
+
+Domazet SL(1), Grøntved A(2), Timmermann AG(3), Nielsen F(4), Jensen TK(3).
+
+Author information: 
+(1)Department of Sports Science and Clinical Biomechanics, Division of Exercise
+Epidemiology, Centre of Research in Childhood Health, University of Southern
+Denmark, Odense, Denmark sdomazet@health.sdu.dk.
+(2)Department of Sports Science and Clinical Biomechanics, Division of Exercise
+Epidemiology, Centre of Research in Childhood Health, University of Southern
+Denmark, Odense, Denmark.
+(3)Institute of Public Health, Department of Environmental Medicine, University
+of Southern Denmark, Odense, Denmark.
+(4)Institute of Public Health, Department of Environmental Medicine, University
+of Southern Denmark, Odense, Denmark Institute of Public Health, Department of
+Clinical Pharmacology, University of Southern Denmark, Odense, Denmark.
+
+Comment in
+    Nat Rev Endocrinol. 2016 Nov;12 (11):625.
+
+OBJECTIVE: To investigate the long-term association of exposure to
+perfluoroalkylated substances, including perfluorooctanesulfonic acid (PFOS) and 
+perfluorooctanoic acid (PFOA), during childhood (9 years) and adolescence (15
+years) on indicators of adiposity and glucose metabolism in adolescence (15
+years) and young adulthood (21 years). Secondarily, we aim to clarify the degree 
+of tracking of exposure from childhood into young adulthood.
+RESEARCH DESIGN AND METHODS: Data derived from a large multicenter prospective
+cohort study, in which the same participants have been observed from childhood (N
+= 590), during adolescence (N = 444), and into young adulthood (N = 369). Stored 
+plasma samples were analyzed for PFOS and PFOA. Indicators of adiposity
+comprising body height, body weight, sum of four skinfolds, and waist
+circumference, as well as indicators of glucose metabolism, comprising fasting
+blood glucose, triglyceride, and insulin levels, β-cell function, and insulin
+resistance, have been collected at all study waves. Multiple linear regression
+was applied in order to model earlier exposure on later outcome while controlling
+for baseline outcome levels, sex, age, and socioeconomic factors.
+RESULTS: Childhood exposure to PFOS was associated with indicators of adiposity
+at 15 years of age that are displayed in elevated BMI, skinfold thickness, and
+waist circumference, as well as increased skinfold thickness and waist
+circumference at 21 years of age. PFOA exposure in childhood was associated with 
+decreased β-cell function at 15 years of age. We did not observe associations
+between exposure during adolescence and indicators of adiposity and glucose
+metabolism in young adulthood.
+CONCLUSIONS: This study found evidence for childhood exposure to PFOS and PFOA
+predicting adiposity at 15 and 21 years of age and impaired β-cell function at 15
+years of age, respectively.
+
+© 2016 by the American Diabetes Association.
+
+DOI: 10.2337/dc16-0269 
+PMID: 27489335  [Indexed for MEDLINE]
+

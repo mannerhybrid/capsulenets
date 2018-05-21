@@ -1,0 +1,43 @@
+
+1. Clin Endocrinol (Oxf). 2013 Oct;79(4):523-8. doi: 10.1111/cen.12091. Epub 2013
+Apr 13.
+
+Sex-dependent associations of genetic variants identified by GWAS with indices of
+adiposity and obesity risk in a Chinese children population.
+
+Xi B(1), Shen Y, Reilly KH, Zhao X, Cheng H, Hou D, Wang X, Mi J.
+
+Author information: 
+(1)Department of Epidemiology, Capital Institute of Pediatrics, 2 Ya Bao Road,
+Beijing, China.
+
+OBJECTIVE: Recent genome-wide association studies have identified a few single
+nucleotide polymorphisms (SNPs), which are associated with body mass index
+(BMI)/obesity. This study aimed to examine the identified associations among a
+population of Chinese children.
+RESEARCH DESIGN AND METHODS: Five SNPs (SEC16B rs10913469, SH2B1 rs4788102,
+PCSK1rs6235, KCTD15 rs29941, BAT2 rs2844479) were genotyped for a group of
+Chinese children (N = 2849, age range 6-18 years). A total of 1230 obese cases
+and 1619 controls with normal weight were identified based on the Chinese age-
+and sex-specific BMI references.
+RESULTS: Of five studied variants, only two (SEC16B rs10913469, SH2B1 rs4788102) 
+were nominally associated with indices of adiposity and obesity risk in girls and
+only SEC16B rs10913469 in children at puberty (p < 0·05), while no statistical
+associations was found for three other variants (PCSK1rs6235, KCTD15 rs29941,
+BAT2 rs2844479). After false discovery rate (FDR) adjustment for multiple
+testing, none were statistically significant. Further analysis indicated that the
+genetic risk score (GRS) was associated with BMI, waist circumference and risk of
+obesity (defined by BMI) in girls, even after FDR adjustment for multiple
+testing. However, there was no statistical association of GRS with indices of
+adiposity and risk of obesity in children at puberty after multiple comparison
+correction.
+CONCLUSIONS: This study confirmed the synthetic effect of SNPs on the indices of 
+adiposity and risk of obesity in Chinese girls, but failed to replicate the
+effect of five separate variants. We also did not found cumulative effect of SNPs
+in children at puberty.
+
+© 2012 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cen.12091 
+PMID: 23121087  [Indexed for MEDLINE]
+
